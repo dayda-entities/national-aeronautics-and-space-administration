@@ -1,4 +1,5 @@
----mtitle: Distributed, Passivity-Based, Aeroservoelastic Control (DPASC) of Structurally Efficient Aircraft in the Presence of Gusts, Phase II
+---
+title: Distributed, Passivity-Based, Aeroservoelastic Control (DPASC) of Structurally Efficient Aircraft in the Presence of Gusts, Phase II
 created: 2020-11-12T04:24:47.946704
 modified: 2020-11-12T04:24:47.946711
 state: active
