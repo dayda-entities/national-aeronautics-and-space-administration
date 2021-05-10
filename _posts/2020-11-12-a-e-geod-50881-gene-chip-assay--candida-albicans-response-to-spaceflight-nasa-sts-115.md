@@ -13,7 +13,7 @@ tags:
 groups: []
 csv_url: 'https://data.nasa.gov/api/views/c5py-4h4g/rows.csv?accessType=DOWNLOAD'
 json_url: 'https://data.nasa.gov/api/views/c5py-4h4g/rows.json?accessType=DOWNLOAD'
-published: 4
+layout: post
 
 ---
 https://c3.nasa.gov/genelab/accession/GLDS-20/
