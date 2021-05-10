@@ -15,7 +15,7 @@ tags:
 groups: []
 csv_url: 'https://data.nasa.gov/api/views/b67r-rgxc/rows.csv?accessType=DOWNLOAD'
 json_url: 'https://data.nasa.gov/api/views/b67r-rgxc/rows.json?accessType=DOWNLOAD'
-published: 4
+layout: post
 
 ---
 The table below provides J2000 heliocentric ecliptic orbital elements
