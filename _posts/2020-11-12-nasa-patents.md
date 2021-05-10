@@ -9,7 +9,7 @@ tags:
 groups: []
 csv_url: 'https://data.nasa.gov/api/views/gquh-watm/rows.csv?accessType=DOWNLOAD'
 json_url: 'https://data.nasa.gov/api/views/gquh-watm/rows.json?accessType=DOWNLOAD'
-published: 4
+layout: post
 
 ---
 This dataset shows information pertaining to NASA held and pending patents.
