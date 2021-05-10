@@ -9,7 +9,7 @@ tags:
 groups: []
 csv_url: 'https://data.nasa.gov/api/views/jdkf-j3pt/rows.csv?accessType=DOWNLOAD'
 json_url: 'https://data.nasa.gov/api/views/jdkf-j3pt/rows.json?accessType=DOWNLOAD'
-published: 4
+layout: post
 
 ---
 This is a monitor using data from Swift/BAT, MAXI and Fermi/GBM instruments. 
