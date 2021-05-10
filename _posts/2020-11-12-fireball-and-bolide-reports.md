@@ -15,7 +15,7 @@ tags:
 groups: []
 csv_url: 'https://data.nasa.gov/api/views/mc52-syum/rows.csv?accessType=DOWNLOAD'
 json_url: 'https://data.nasa.gov/api/views/mc52-syum/rows.json?accessType=DOWNLOAD'
-published: 4
+layout: post
 
 ---
 Fireballs and bolides are astronomical terms for exceptionally bright meteors that are spectacular enough to to be seen over a very wide area. The following table provides a chronological data summary of fireball and bolide events provided by U.S. Government sensors. Ground-based observers sometimes also witness these events at night, or much more rarely in daylight, as impressive atmospheric light displays. This website is not meant to be a complete list of all fireball events. Only the brightest fireballs are noted.
