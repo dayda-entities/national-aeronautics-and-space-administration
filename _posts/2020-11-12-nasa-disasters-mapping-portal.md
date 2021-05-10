@@ -21,7 +21,7 @@ tags:
 groups: []
 csv_url: 'https://data.nasa.gov/api/views/vyzu-gm3d/rows.csv?accessType=DOWNLOAD'
 json_url: 'https://data.nasa.gov/api/views/vyzu-gm3d/rows.json?accessType=DOWNLOAD'
-published: 4
+layout: post
 
 ---
 This entry does not contain data itself, it is for the website, the NASA Disasters Mapping Portal: https://maps.disasters.nasa.gov
