@@ -15,7 +15,7 @@ tags:
 groups: []
 csv_url: 'https://data.nasa.gov/api/views/gh4g-9sfh/rows.csv?accessType=DOWNLOAD'
 json_url: 'https://data.nasa.gov/api/views/gh4g-9sfh/rows.json?accessType=DOWNLOAD'
-published: 4
+layout: post
 
 ---
 This comprehensive data set from The Meteoritical Society contains information on all of the known meteorite landings. The Fusion Table is collected by Javier de la Torre and we've also provided an XLS file that consists of 34,513 meteorites and includes the following fields:
