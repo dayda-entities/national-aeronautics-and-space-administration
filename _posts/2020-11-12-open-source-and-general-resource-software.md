@@ -9,7 +9,7 @@ tags:
 groups: []
 csv_url: 'https://data.nasa.gov/api/views/fk38-4khf/rows.csv?accessType=DOWNLOAD'
 json_url: 'https://data.nasa.gov/api/views/fk38-4khf/rows.json?accessType=DOWNLOAD'
-published: 4
+layout: post
 
 ---
 This dataset lists out all software in use by NASA
