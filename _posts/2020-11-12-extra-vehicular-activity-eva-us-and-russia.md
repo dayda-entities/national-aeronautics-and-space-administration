@@ -10,7 +10,7 @@ tags:
 groups: []
 csv_url: 'https://data.nasa.gov/api/views/9kcy-zwvn/rows.csv?accessType=DOWNLOAD'
 json_url: 'https://data.nasa.gov/api/views/9kcy-zwvn/rows.json?accessType=DOWNLOAD'
-published: 4
+layout: post
 
 ---
 Activities done by an astronaut or cosmonaut outside a spacecraft beyond the Earth's appreciable atmosphere.
