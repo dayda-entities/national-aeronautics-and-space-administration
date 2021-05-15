@@ -11,7 +11,8 @@ source_contact_type: general
 source_phone: +1 555-555-5555
 source_email: info@example.com
 source_catalog: data.gov
-profile_pic: 'http://polargateways2008.gsfc.nasa.gov/profile_pics/LOGO_2in/NASA_2.jpg'
+profile_pic: >-
+  https://directory.dayda.org/assets/img/entities/national-aeronautics-and-space-administration.png
 favicon: /assets/img/favicon.png
 url: 'http://national-aeronautics-and-space-administration.dayda.org'
 encoding: utf-8
