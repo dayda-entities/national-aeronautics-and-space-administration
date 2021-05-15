@@ -28,3 +28,6 @@ sass:
 
 disqus:
   shortname: raghuveerdotnet
+
+paginate: 25
+paginate_path: '/page:num/'

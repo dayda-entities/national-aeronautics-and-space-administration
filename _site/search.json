@@ -1,0 +1,771 @@
+[
+  
+    {
+
+      "title"    : "IR 9 Oregon Coast 2012 Aerial Photography of Nesting Seabird Colony Islands for Monitoring Purposes - Stitched Image (Mosaics) Used to Manual Count Nesting Seabirds",
+      "url"      : "/2021/02/25/ir-9-oregon-coast-2012-aerial-photography-of-nesting-seabird-colony-islands-for-monitoring-purposes-stitched-image-mosaics-used-to-manual-count-nesting-seabirds.html",
+      "content"  : "Photography from helicopter taken for the purposes of resource monitoring, specifically seabird colony status and distribution. Oregon Coast aerial and boat based photography taken ordinarily in June, 2012 on 35mm slide film. Primarily captured from a helicopter roughly 800-900' in altitude, Right Front Photographer - Shawn W. Stephenson, USFWS, Right Rear Photographer - David B. Ledig, USFWS These slides have been scanned at 1200 - 5000 DPI and have about 1-foot pixel resolution. Please note that these photos have not been georeferenced. The photos have not been orthorectified and therefore there will be photo anomalies and mis-matches between adjoining photos. Caution should be exercised if attempting to use this imagery to conduct measurements."
+
+    },
+  
+    {
+
+      "title"    : "WISE NEA/COMET DISCOVERY STATISTICS",
+      "url"      : "/2020/11/12/wise-neacomet-discovery-statistics.html",
+      "content"  : "These tables show discovery statistics for NEAs and comets discovered by NASA's WISE mission - now renamed to NEOWISE. The first small table shows the number of NEAs, PHAs (a sub-group of NEAs), and comets discovered to-date (within a day or two). The second table shows each object discovered, sorted by designation, with selected parameters describing the object's orbit.\n\nhttp://neo.jpl.nasa.gov/stats/wise/"
+
+    },
+  
+    {
+
+      "title"    : "Timeseries of Arctic-Boreal Lake Area Derived from CubeSat Imagery, 2017",
+      "url"      : "/2020/11/12/timeseries-of-arctic-boreal-lake-area-derived-from-cubesat-imagery-2017.html",
+      "content"  : "This dataset provides near-daily lake area timeseries for 85,358 lakes across four study areas in Northern Canada and Alaska, USA, between May 1 and October 1, 2017. These lake area estimates were produced using digital images from newly developed Planet Labs CubeSats, small satellites with a 4-band (blue, green, red, near-infrared) camera payload. In constellation, CubeSats collected imagery at very high spatial (3-5m) and temporal (near-daily) resolution. From the imagery, each lake's mean, minimum, and maximum areas and seasonal dynamism were derived. The dataset covers four Arctic-Boreal regions: the Yukon Flats Basin (YFB) in eastern interior Alaska, and the Mackenzie River Valley (MRV), Canadian Shield Transect (CST), and Hudson Bay Lowland (HBL) in Canada."
+
+    },
+  
+    {
+
+      "title"    : "SxSW 2016 Leads",
+      "url"      : "/2020/11/12/sxsw-2016-leads.html",
+      "content"  : "Companies that visited the NASA boot at the SxSW 2016 conference."
+
+    },
+  
+    {
+
+      "title"    : "Soil Organic Carbon Stock Estimates with Uncertainty across Latin America",
+      "url"      : "/2020/11/12/soil-organic-carbon-stock-estimates-with-uncertainty-across-latin-america.html",
+      "content"  : "This dataset provides 5 x 5 km gridded estimates of soil organic carbon (SOC) across Latin America that were derived from existing point soil characterization data and compiled environmental prediction factors for SOC. This dataset is representative for the period between 1980 to 2000s corresponding with the highest density of observations available in the WoSIS system and the covariates used as prediction factors for soil organic carbon across Latin America. SOC stocks (kg/m2) were estimated for the SOC and bulk density point measurements and a spatially explicit measure of the SOC estimation error was also calculated. A modeling ensemble, using a linear combination of five statistical methods (regression Kriging, random forest, kernel weighted nearest neighbors, partial least squared regression and support vector machines) was applied to the SOC stock data at (1) country-specific and (2) regional scales to develop gridded SOC estimates (kg/m2) for all of Latin America. Uncertainty estimates are provided for the two model predictions based on independent model residuals and their full conditional response to the SOC prediction factors."
+
+    },
+  
+    {
+
+      "title"    : "SAFARI 2000 Modeled Tropospheric Air Mass Trajectories, Dry Season 2000",
+      "url"      : "/2020/11/12/safari-2000-modeled-tropospheric-air-mass-trajectories-dry-season-2000.html",
+      "content"  : "The ETA Forecast Trajectory Model was used to produce forecasts of air-parcel trajectories twice a day at three pressure levels over seven sites in Southern Africa for the period August 14, 2000 to September 23, 2000. These sites are Durban, Middleburg, Pietersburg, and Springbok, South Africa; Maun, Botswana; Mongu, Zambia; and Windhoek, Namibia. The twice daily three-dimensional wind field (at 0000 and 1200 UTC) was used as input to the trajectory model. By integrating the vertical motion of the air parcels over a period of time, the trajectory model was able to forecast the net vertical displacement of air parcels during 12-hour periods. The resulting trajectory plots represent the three-dimensional transport of air in time and can be used to examine what is happening in the low-to-mid troposphere during flight and ground-based observations. These levels are most significant in terms of the thermodynamic structure of the troposphere, especially the stable layers and accumulation of material between and below them, as well containing the major levels of subsidence over the subcontinent. The trajectory model output and  thermodynamic profiles of the troposphere were used to position aircraft for sampling trace gases, aerosols and other species during the SAFARI 2000 field campaign and to predict regions of high aerosol and trace gas concentrations downwind.The model output data are daily forward and backward trajectory plots at 850 hPa, 700 hPa, and 500 hPa pressure levels for each location. The plots are provided as JPEG images with coordinate, date, and time stamps."
+
+    },
+  
+    {
+
+      "title"    : "SAFARI 2000 Global Burned Area Map, 1-km, Southern Africa, 2000",
+      "url"      : "/2020/11/12/safari-2000-global-burned-area-map-1-km-southern-africa-2000.html",
+      "content"  : "The Global Burned Area 2000 initiative (GBA2000) was launched by the Global Vegetation Mapping Unit of the Joint Research Centre of the European Commission, in partnership with several other institutions, to develop reliable and quantitative information on the global magnitude and spatial distribution of biomass burning. The objective of GBA2000 was to produce a map of the areas burned globally for the year 2000, using the medium resolution satellite imagery provided by the SPOT-VEGETATION (VGT) system and to derive statistics of area burned per type of vegetation cover. A subset of the global GBA20000 map was prepared for SAFARI 2000 to map the area burned in sub-Saharan Africa during 2000 on a monthly basis using VGT imagery at 1 km spatial resolution. Burned areas were identified with a classification tree, relying only on the near-infrared channel of VGT. The data used in this work are in the S1 daily synthesis format, i.e. the data are radiometrically calibrated, precisely geo-located, and corrected for atmospheric effects.The data are binary image files of area burned, BSQ format in geographic projection.  There is one file for each month of 2000 and one file for all of the year 2000. There is also a comma-delimited ASCII text file that provides geographic coordinates (latitude and longitude) of the center of each pixel indicated as a burned area for all of 2000."
+
+    },
+  
+    {
+
+      "title"    : "SAFARI 2000 Daily Rainfall Estimates, 0.1-Deg, Southern Africa, 1993-2001",
+      "url"      : "/2020/11/12/safari-2000-daily-rainfall-estimates-0.1-deg-southern-africa-1993-2001.html",
+      "content"  : "The Microwave InfraRed Algorithm (MIRA) is used to produce an imagery data set of daily mean rain rates at 0.1 degree spatial resolution over southern Africa for the period 1993-2001. MIRA combines passive microwave (PMW) from the Special Sensor Microwave/Imager (SSM/I) on board the DMSP F10 and F14 satellites at a resolution of 0.5 degrees and infrared (IR) data from the Meteosat 4, 5, 6, and 7 satellites in 2-hour slots at a resolution of 5 km. This approach accounts for the limitations of both data types in estimating precipitation. Rainfall estimates are produced at the high spatial and temporal frequency of the IR data using rainfall information from the PMW data. An IR/rain rate relationship, variable in space and time, is derived from coincident observations of IR and PMW rain rate (accumulated over a calibration domain) using the probability matching method. The IR/rain rate relationship is then applied to IR imagery at full temporal resolution. The results presented here are the daily means of those derived rain rates at 0.1 degree spatial resolution.The rainfall data sets are flat binary images with no headers. They are compressed band sequential (bsq) files that contain all of the daily images for the given year. Each image is an array of 401 lines, each with 341 binary floating-point numbers, containing rainfall at 0.1 degree resolution for the area 10 to 50 degrees longitude and 0 to -34 degrees latitude. The number of band sequential images in each annual file and the associated dates can be found in the file MIRA_data_dates.csv."
+
+    },
+  
+    {
+
+      "title"    : "S E- GEOD-50881 Study Samples --- Candida albicans response to spaceflight (NASA STS-115)",
+      "url"      : "/2020/11/12/s-e-geod-50881-study-samples-candida-albicans-response-to-spaceflight-nasa-sts-115.html",
+      "content"  : "https://c3.nasa.gov/genelab/accession/GLDS-20/\n\nThis study presents the first global transcriptional profiling and phenotypic characterization of the major human opportunistic fungal pathogen, Candida albicans, grown in spaceflight conditions. Microarray analysis revealed that C. albicans subjected to short-term spaceflight culture differentially regulated 454 genes compared to synchronous ground controls, which represented 8.4% of the analyzed ORFs. Spaceflight-cultured C. albicans induced genes involved in cell aggregation (similar to flocculation), which was validated by microscopic and flow cytometry analysis. We also observed enhanced random budding of spaceflight-cultured cells as opposed to more normal bipolar budding patterns for ground samples, in accordance with the gene expression data. Furthermore, genes involved in antifungal agent and stress resistance were differentially regulated in spaceflight, including induction of ABC transporters and members of the major facilitator family, downregulation of ergosterol-encoding genes, and upregulation of genes involved in oxidative stress resistance. Finally, downregulation of genes involved in the actin cytoskeleton was observed. Interestingly, the transcriptional regulator Cap1 and over 30% of the Cap1 regulon was differentially expressed in spaceflight-cultured C. albicans. A potential role for Cap1 in the spaceflight response of C. albicans is suggested, as this regulator is involved in random budding, cell aggregation, actin cytoskeleton, and oxidative stress resistance; all related to observed spaceflight-associated changes of C. albicans. While culture of C. albicans in microgravity potentiates a global change in gene expression that could induce a virulence-related phenotype, no increased virulence in a murine intraperitoneal (i.p.) infection model was observed. This study represents an important basis for the assessment of the risk that commensal flora could play during spaceflight missions. Furthermore, since the low fluid-shear environment of microgravity is relevant to physical forces encountered by pathogens during the infection process, insights gained from this study could identify novel infectious disease mechanisms, with downstream benefits for the general public. Cells were grown for 24 hours on the space shuttle or as ground-based controls, preserved in RNALater, and stored at -80C. Four samples of each flight- and ground-based controls were harvested for microarray analysis. GAP is Group Activation Pack and each GAP contains 8 FPAs. The numbers represent the # assigned to the particular GAP and the number assigned to the specific FPA (1-8) within the indicated GAP. The same hardware is used for the flight samples and the ground samples."
+
+    },
+  
+    {
+
+      "title"    : "S E- GEOD-50881 Study Samples --- Candida albicans response to spaceflight (NASA STS-115)",
+      "url"      : "/2020/11/12/s-e-geod-50881-study-samples-candida-albicans-response-to-spaceflight-nasa-sts-115.html",
+      "content"  : "https://c3.nasa.gov/genelab/accession/GLDS-20/\n\nThis study presents the first global transcriptional profiling and phenotypic characterization of the major human opportunistic fungal pathogen, Candida albicans, grown in spaceflight conditions. Microarray analysis revealed that C. albicans subjected to short-term spaceflight culture differentially regulated 454 genes compared to synchronous ground controls, which represented 8.4% of the analyzed ORFs. Spaceflight-cultured C. albicans induced genes involved in cell aggregation (similar to flocculation), which was validated by microscopic and flow cytometry analysis. We also observed enhanced random budding of spaceflight-cultured cells as opposed to more normal bipolar budding patterns for ground samples, in accordance with the gene expression data. Furthermore, genes involved in antifungal agent and stress resistance were differentially regulated in spaceflight, including induction of ABC transporters and members of the major facilitator family, downregulation of ergosterol-encoding genes, and upregulation of genes involved in oxidative stress resistance. Finally, downregulation of genes involved in the actin cytoskeleton was observed. Interestingly, the transcriptional regulator Cap1 and over 30% of the Cap1 regulon was differentially expressed in spaceflight-cultured C. albicans. A potential role for Cap1 in the spaceflight response of C. albicans is suggested, as this regulator is involved in random budding, cell aggregation, actin cytoskeleton, and oxidative stress resistance; all related to observed spaceflight-associated changes of C. albicans. While culture of C. albicans in microgravity potentiates a global change in gene expression that could induce a virulence-related phenotype, no increased virulence in a murine intraperitoneal (i.p.) infection model was observed. This study represents an important basis for the assessment of the risk that commensal flora could play during spaceflight missions. Furthermore, since the low fluid-shear environment of microgravity is relevant to physical forces encountered by pathogens during the infection process, insights gained from this study could identify novel infectious disease mechanisms, with downstream benefits for the general public. Cells were grown for 24 hours on the space shuttle or as ground-based controls, preserved in RNALater, and stored at -80C. Four samples of each flight- and ground-based controls were harvested for microarray analysis. GAP is Group Activation Pack and each GAP contains 8 FPAs. The numbers represent the # assigned to the particular GAP and the number assigned to the specific FPA (1-8) within the indicated GAP. The same hardware is used for the flight samples and the ground samples."
+
+    },
+  
+    {
+
+      "title"    : "RLC Forest Fire Images in Russia, 1998-1999",
+      "url"      : "/2020/11/12/rlc-forest-fire-images-in-russia-1998-1999.html",
+      "content"  : "This data set is made up of images of forest fires in Russia from NOAA's Operational Significant Event Imagery (OSEI) archive (http://www.osei.noaa.gov) for the 1998 and 1999 seasons. OSEI fire products include multichannel color composite imagery of wildfire and controlled burn events. Products in this event group show fire, smoke, and hotspots (FSMHS) from the fires."
+
+    },
+  
+    {
+
+      "title"    : "Remote Sensing Systems Radiometer Rain Collocations with JPL RapidScat L2B Swath Grid",
+      "url"      : "/2020/11/12/remote-sensing-systems-radiometer-rain-collocations-with-jpl-rapidscat-l2b-swath-grid.html",
+      "content"  : "This dataset contains the multi-sourced microwave radiometer wind speed, rain and cloud liquid water data collocated to RapidScat Level 2B wind vector cell (WVC) locations. The corresponding NASA mission is officially referred to as ISS-RapidScat. This dataset is produced by Remote Sensing Systems (RSS) with direct funding from the JPL RapidScat project. All of the collocated radiometer data is produced by RSS. The co-located radiometer sources include: 1) DMSP SSM/I (F15) and SSMIS (F16/F17), 2) Coriolis WindSat, 3) GCOM-W1 AMSR2 and 4) GPM Core GMI; more details on these radiometer sources and sensors can be extracted by scrolling down to the \"Platform/Sensor\" section below this description. RapidScat is a Ku-band dual beam circular rotating scatterometer retaining much of the same hardware and functionality of QuikSCAT, with exception of the antenna sub-system and digital interface to the International Space Station (ISS) Columbus module, which is where RapidScat is mounted. Unlike QuikSCAT, ISS-RapidScat is not in sun-synchronous orbit, and flies at roughly half the altitude with a low inclination angle that restricts data coverage to the tropics and mid-latitude regions; the extent of latitudinal coverage stretches from approximately 61 degrees North to 61 degrees South. Furthermore, there is no consistent local time of day retrieval. This dataset is provided in a netCDF-4 file format that follows the netCDF \"classic\" model and made available via FTP and OPeNDAP. For data access, please click on the \"Data Access\" tab above."
+
+    },
+  
+    {
+
+      "title"    : "Realized Cost Savings and Avoidance Decisions",
+      "url"      : "/2020/11/12/realized-cost-savings-and-avoidance-decisions.html",
+      "content"  : "The OMB Office of the Chief Information Officer (OFCIO) has a long-standing practice of making information about Federal IT available to the public through various tools and reports to Congress. Consistent with this practice, OMB OFCIO will be making agency cost savings and avoidances data available to the public via http://www.whitehouse.gov/omb/e-gov. This dataset links to NASA's Realized Cost Savings and Avoidances data in JSON format."
+
+    },
+  
+    {
+
+      "title"    : "RapidScat Level 2B Ocean Wind Vectors in 12.5km Slice Composites Version 1.3",
+      "url"      : "/2020/11/12/rapidscat-level-2b-ocean-wind-vectors-in-12.5km-slice-composites-version-1.3.html",
+      "content"  : "This dataset contains the RapidScat Level 2B 12.5km Version 1.3 science-quality ocean surface wind vectors, which are intended as a replacement and continuation of the Version 1.1 and 1.2 data forward from orbital revolution number 7873, corresponding to 11 February 2016; on 11 Feb 2016, RapidScat entered it's 3rd low signal to noise ratio (SNR) state and the initial calibration of low SNR 3 was preliminary during the Version 1.2 release. The fundamental difference between Version 1.3 and the previous Version 1.2 datasets is that the L1B sigma-0 has been re-calibrated during the periods of low SNR states 3 and 4 using re-pointed QuikSCAT data.  The Version 1.1 should still be considered valid up to the first rev of version 1.2 (5127), and similarly version 1.2 shall be considered valid up to the first rev of version 1.3 (7873). The Level 2B wind vectors are binned on a 12.5 km Wind Vector Cell (WVC) grid and processed using the Level 2A Sigma-0 dataset. RapidScat is a Ku-band dual beam circular rotating scatterometer retaining much of the same hardware and functionality of QuikSCAT, with exception of the antenna sub-system and digital interface to the International Space Station (ISS) Columbus module, which is where RapidScat is mounted. The NASA mission is officially referred to as ISS-RapidScat. Unlike QuikSCAT, ISS-RapidScat is not in sun-synchronous orbit, and flies at roughly half the altitude with a low inclination angle that restricts data coverage to the tropics and mid-latitude regions; the extent of latitudinal coverage stretches from approximately 61 degrees North to 61 degrees South. Furthermore, there is no consistent local time of day retrieval. This dataset is provided in a netCDF-3 file format that follows the netCDF-4 classic model (i.e., generated by the netCDF-4 API) and made available via FTP and OPeNDAP. For data access, please click on the \"Data Access\" tab above. It is advised for users to avoid using the \"wind_obj\" variable in this dataset since it is minimally applicable and meant primarily for quality assurance; for users who wish to access the objective function values for each ambiguity, it is suggested to use only the \"ambiguity_obj\" variable. The \"wind_obj\" variable contains DIRTH probabilities (which are derived form the \"ambiguity_obj\" objective function values) in the range of 0 to 1 indicating the conditional probability that the true direction is within + or - 2.5 degrees of the retrieved wind direction given the observed backscatter measurements in the cell. If you have any questions or concerns, please visit our Forum at https://podaac.jpl.nasa.gov/forum/."
+
+    },
+  
+    {
+
+      "title"    : "RapidScat Level 2B Ocean Wind Vectors in 12.5km Slice Composites Version 1.2",
+      "url"      : "/2020/11/12/rapidscat-level-2b-ocean-wind-vectors-in-12.5km-slice-composites-version-1.2.html",
+      "content"  : "This dataset contains the RapidScat Level 2B 12.5km Version 1.2 science-quality ocean surface wind vectors, which are intended as a replacement and continuation of the Version 1.1 data forward from orbital revolution number 5127, corresponding to 19 August 2015; the overlapping time period starting on 19 August 2015 corresponds to the first time period of the recorded low signal-to-noise ratio (SNR). The Level 2B wind vectors are binned on a 12.5 km Wind Vector Cell (WVC) grid and processed using the Level 2A Sigma-0 dataset. RapidScat is a Ku-band dual beam circular rotating scatterometer retaining much of the same hardware and functionality of QuikSCAT, with exception of the antenna sub-system and digital interface to the International Space Station (ISS) Columbus module, which is where RapidScat is mounted. The NASA mission is officially referred to as ISS-RapidScat. Unlike QuikSCAT, ISS-RapidScat is not in sun-synchronous orbit, and flies at roughly half the altitude with a low inclination angle that restricts data coverage to the tropics and mid-latitude regions; the extent of latitudinal coverage stretches from approximately 61 degrees North to 61 degrees South. Furthermore, there is no consistent local time of day retrieval. This dataset is provided in a netCDF-3 file format that follows the netCDF-4 classic model (i.e., generated by the netCDF-4 API) and made available via FTP and OPeNDAP. For data access, please click on the \"Data Access\" tab above. This Version 1.2 dataset differs from the previous Version 1.1 dataset as follows: 1) L1B sigma-0 has been re-calibrated during the periods of low signal-to-noise ratio (SNR) and 2) during low SNR periods the L1B sigma-0 calibration is determined using re-pointed L1B QuikSCAT data. It is advised for users to avoid using the \"wind_obj\" variable in this dataset since it is minimally applicable and meant primarily for quality assurance; for users who wish to access the objective function values for each ambiguity, it is suggested to use only the \"ambiguity_obj\" variable. The \"wind_obj\" variable contains DIRTH probabilities (which are derived form the \"ambiguity_obj\" objective function values) in the range of 0 to 1 indicating the conditional probability that the true direction is within + or - 2.5 degrees of the retrieved wind direction given the observed backscatter measurements in the cell. If you have any questions or concerns, please visit our Forum at https://podaac.jpl.nasa.gov/forum/."
+
+    },
+  
+    {
+
+      "title"    : "RapidScat Level 2B Ocean Wind Vectors in 12.5km Slice Composites Version 1.1",
+      "url"      : "/2020/11/12/rapidscat-level-2b-ocean-wind-vectors-in-12.5km-slice-composites-version-1.1.html",
+      "content"  : "This dataset contains the RapidScat Level 2B 12.5km Version 1.1 science-quality ocean surface wind vectors. The Level 2B wind vectors are binned on a 12.5 km Wind Vector Cell (WVC) grid and processed using the Level 2A Sigma-0 dataset. RapidScat is a Ku-band dual beam circular rotating scatterometer retaining much of the same hardware and functionality of QuikSCAT, with exception of the antenna sub-system and digital interface to the International Space Station (ISS) Columbus module, which is where RapidScat is mounted. The NASA mission is officially referred to as ISS-RapidScat. Unlike QuikSCAT, ISS-RapidScat is not in sun-synchronous orbit, and flies at roughly half the altitude with a low inclination angle that restricts data coverage to the tropics and mid-latitude regions; the extent of latitudinal coverage stretches from approximately 61 degrees North to 61 degrees South. Furthermore, there is no consistent local time of day retrieval. This dataset is provided in a netCDF-3 file format that follows the netCDF-4 classic model (i.e., generated by the netCDF-4 API) and made available via FTP and OPeNDAP. For data access, please click on the \"Data Access\" tab above. This Version 1.1 dataset differs from the previous Version 1 dataset as follows: 1) A new neural network approach for high wind speeds provided rain corrections for the \"retrieve_wind_speed\" variable for wind speeds in excess of 15 m/s. 2) The data variables containing the number of measurements of each type for each wind vector cell have been corrected; these variables include \"number_in_aft\", \"number_in_fore\", \"number_out_aft\", and \"number_out_fore\". 3) The \"wind_obj\" data variable has been corrected to include the proper data for the conditional probability for the objective DIRTH function values. It is advised for users to avoid using the \"wind_obj\" variable in this dataset since it is minimally applicable and meant primarily for quality assurance; for users who wish to access the objective function values for each ambiguity, it is suggested to use only the \"ambiguity_obj\" variable. The \"wind_obj\" variable contains DIRTH probabilities (which are derived form the \"ambiguity_obj\" objective function values) in the range of 0 to 1 indicating the conditional probability that the true direction is within + or - 2.5 degrees of the retrieved wind direction given the observed backscatter measurements in the cell. If you have any questions, please contact podaac@podaac.jpl.nasa.gov"
+
+    },
+  
+    {
+
+      "title"    : "RapidScat Level 2B Climate Ocean Wind Vectors in 12.5km Footprints",
+      "url"      : "/2020/11/12/rapidscat-level-2b-climate-ocean-wind-vectors-in-12.5km-footprints.html",
+      "content"  : "This dataset contains the RapidScat Level 2B 12.5km Version 1.0 Climate quality ocean surface wind vectors. The Level 2B wind vectors are binned on a 12.5 km Wind Vector Cell (WVC) grid and processed using the using the \"full aperture\" normalized radar cross-section (NRCS, a.k.a. Sigma-0) from the L1B dataset. RapidScat is a Ku-band dual beam circular rotating scatterometer retaining much of the same hardware and functionality of QuikSCAT, with exception of the antenna sub-system and digital interface to the International Space Station (ISS) Columbus module, which is where RapidScat is mounted. The NASA mission is officially referred to as ISS-RapidScat. Unlike QuikSCAT, ISS-RapidScat is not in sun-synchronous orbit, and flies at roughly half the altitude with a low inclination angle that restricts data coverage to the tropics and mid-latitude regions; the extent of latitudinal coverage stretches from approximately 61 degrees North to 61 degrees South. Furthermore, there is no consistent local time of day retrieval. This dataset is provided in a netCDF-3 file format that follows the netCDF-4 classic model (i.e., generated by the netCDF-4 API) and made available via PO.DAAC Drive and OPeNDAP. For data access, please click on the \"Data Access\" tab above. This climate quality data set differs from the nominal \"slice\" L2B dataset as follows: 1) it uses full antenna footprint measurements (~20-km) without subdividing by range (~7-km) and 2) the absolute calibration has been modified for the two different low signal-to-noise ratio (SNR) mode data sets: LowSNR1 14 August 2015 to 18 September 2015; LowSNR2 6 October 2015 to 7 February 2016. The above enhancements allow this dataset to provide consistent calibration across all SNR states. Low SNR periods and other key quality control (QC) issues are tracked and kept up-to-date in PO.DAAC Drive at https://podaac-tools.jpl.nasa.gov/drive/files/allData/rapidscat/ancillary/revtime.csv. If you have any questions, please visit our user forums: https://podaac.jpl.nasa.gov/forum/."
+
+    },
+  
+    {
+
+      "title"    : "RapidScat Level 2B Climate Ocean Wind Vectors in 12.5km Footprints Version 2.0",
+      "url"      : "/2020/11/12/rapidscat-level-2b-climate-ocean-wind-vectors-in-12.5km-footprints-version-2.0.html",
+      "content"  : "This dataset contains the RapidScat Level 2B 12.5km Version 2.0 Climate quality ocean surface wind vectors. The Level 2B wind vectors are binned on a 12.5 km Wind Vector Cell (WVC) grid and processed using the using the \"full aperture\" normalized radar cross-section (NRCS, a.k.a. Sigma-0) from the L1B dataset. RapidScat is a Ku-band dual beam circular rotating scatterometer retaining much of the same hardware and functionality of QuikSCAT, with exception of the antenna sub-system and digital interface to the International Space Station (ISS) Columbus module, which is where RapidScat is mounted. The NASA mission is officially referred to as ISS-RapidScat. Unlike QuikSCAT, ISS-RapidScat is not in sun-synchronous orbit, and flies at roughly half the altitude with a low inclination angle that restricts data coverage to the tropics and mid-latitude regions; the extent of latitudinal coverage stretches from approximately 61 degrees North to 61 degrees South. Furthermore, there is no consistent local time of day retrieval. The new version has two important improvements over the previous version 1.0. First, an SST-dependent GMF developed by Lucrezia Ricciardulli of Remote Sensing Systems is used in wind retrieval in order to fix persistent speed biases in Ku-band data over cold ocean.  Second, flagging is simplified and extra flags are provided. All the previously existing flags are still there and still reflect the same meaning and purpose. A new single bit wind_retrieval_likely_corrupted_flag specifies the approximately 3% of the data which is known to have suboptimal performance due to rain, ice, or a few other rare anomalous cases. Another bit wind_retrieval_possibly_corrupted_flag specifies the approximately 15% of the data near rain, near ice, or near the coast, that is thought to be high quality but may not match up well with numerical wind models due to either remaining rain/ice/land contamination or variability in the winds near ice, rain, and coasts that are not reflected in the NWPs.  In addition to these two new bits, copious quality information is provided in the data to allow users to tailor flags to meet their own needs. There is also an added a global attribute called rev_status that specifies whether the RapidScat Instrument was in the original (highest data quality) high SNR mode, or one of the four low SNR time periods, the latter of which indicates the accuracy of winds below 5 m/s is degraded. This attribute also serves to identify MARGINAL orbits in which there are large gaps in the data record due to suboptimal spacecraft attitude. Other than gaps in the data, the accuracy of the winds in the MARGINAL orbits are similar to other orbits. This dataset is provided in netCDF-4 format and made available via FTP and OPeNDAP. For data access, please click on the \"Data Access\" tab above."
+
+    },
+  
+    {
+
+      "title"    : "RapidScat Level 2A Surface Flagged Sigma-0 and Attenuations in 25Km Swath Grid Version 1.3",
+      "url"      : "/2020/11/12/rapidscat-level-2a-surface-flagged-sigma-0-and-attenuations-in-25km-swath-grid-version-1.3.html",
+      "content"  : "This dataset contains the Version 1.3 ISS-RapidScat Level 2A 25km science data record, which provides surface-flagged sigma-0 in 25km Wind Vector Cells processed using the pulse \"egg\" Sigma-0 data provided by the Level 1B dataset. Version 1.3 is intended as a replacement and continuation of the Version 1.1 and 1.2 data forward from orbital revolution number 7873, corresponding to 11 February 2016; on 11 Feb 2016, RapidScat entered it's 3rd low signal to noise ratio (SNR) state and the initial calibration of low SNR 3 was preliminary during the Version 1.2 release. The fundamental difference between Version 1.3 and the previous Version 1.2 datasets is that the L1B sigma-0 has been re-calibrated during the periods of low SNR states 3 and 4 using re-pointed QuikSCAT data. Due to the circular scan of the SeaWinds instrument the expected number of Sigma-0 cells per WVC is not constant. To minimize the L2A data volume, the Sigma-0 cell data are stored as \"lists\" for each WVC row, with each list indexed by a \"cell_index\" array to indicate the cross-track WVC membership of the data. Each cell is then checked for land or ice and flagged accordingly. Attenuation corrections for each Sigma-0 measurement are also provided. Data are provided in single-orbit files in HDF-4 format. RapidScat is a Ku-band dual beam circular rotating scatterometer retaining much of the same hardware and functionality of QuikSCAT, with exception of the antenna sub-system and digital interface to the International Space Station (ISS) Columbus module, which is where RapidScat is mounted. The NASA mission is officially referred to as ISS-RapidScat. Unlike QuikSCAT, ISS-RapidScat is not in sun-synchronous orbit, and flies at roughly half the altitude with a low inclination angle that restricts data coverage to the tropics and mid-latitude regions; the extent of latitudinal coverage stretches from approximately 61 degrees North to 61 degrees South. Furthermore, there is no consistent local time of day retrieval. If you have any questions or concerns, please visit our Forum at https://podaac.jpl.nasa.gov/forum/."
+
+    },
+  
+    {
+
+      "title"    : "RapidScat Level 2A Surface Flagged Sigma-0 and Attenuations in 25Km Swath Grid Version 1.2",
+      "url"      : "/2020/11/12/rapidscat-level-2a-surface-flagged-sigma-0-and-attenuations-in-25km-swath-grid-version-1.2.html",
+      "content"  : "This dataset contains the Version 1.2 ISS-RapidScat Level 2A 25km science data record, which provides surface-flagged sigma-0 in 25km Wind Vector Cells processed using the pulse \"egg\" Sigma-0 data provided by the Level 1B dataset. Version 1.2 is intended as a replacement and continuation of the Version 1.1 data forward from orbital revolution number 5127, corresponding to 19 August 2015; the overlapping time period starting on 19 August 2015 corresponds to the first time period of the recorded low signal-to-noise ratio (SNR). This Version 1.2 dataset differs from the previous Version 1.1 dataset as follows: 1) L1B sigma-0 has been re-calibrated during the periods of low signal-to-noise ratio (SNR) and 2) during low SNR periods the L1B sigma-0 calibration is determined using re-pointed L1B QuikSCAT data. Due to the circular scan of the SeaWinds instrument the expected number of Sigma-0 cells per WVC is not constant. To minimize the L2A data volume, the Sigma-0 cell data are stored as \"lists\" for each WVC row, with each list indexed by a \"cell_index\" array to indicate the cross-track WVC membership of the data. Each cell is then checked for land or ice and flagged accordingly. Attenuation corrections for each Sigma-0 measurement are also provided. Data are provided in single-orbit files in HDF-4 format. RapidScat is a Ku-band dual beam circular rotating scatterometer retaining much of the same hardware and functionality of QuikSCAT, with exception of the antenna sub-system and digital interface to the International Space Station (ISS) Columbus module, which is where RapidScat is mounted. The NASA mission is officially referred to as ISS-RapidScat. Unlike QuikSCAT, ISS-RapidScat is not in sun-synchronous orbit, and flies at roughly half the altitude with a low inclination angle that restricts data coverage to the tropics and mid-latitude regions; the extent of latitudinal coverage stretches from approximately 56 degrees North to 56 degrees South. Furthermore, there is no consistent local time of day retrieval. If you have any questions or concerns, please visit our Forum at https://podaac.jpl.nasa.gov/forum/."
+
+    },
+  
+    {
+
+      "title"    : "RapidScat Level 2A Surface Flagged Sigma-0 and Attenuations in 25Km Swath Grid Version 1.1",
+      "url"      : "/2020/11/12/rapidscat-level-2a-surface-flagged-sigma-0-and-attenuations-in-25km-swath-grid-version-1.1.html",
+      "content"  : "This dataset contains the ISS-RapidScat on Level 2A 25km science data record, which provides surface-flagged sigma-0 in 25km Wind Vector Cells processed using the pulse \"egg\" Sigma-0 data provided by the Level 1B dataset. Due to the circular scan of the SeaWinds instrument the expected number of Sigma-0 cells per WVC is not constant. To minimize the L2A data volume, the Sigma-0 cell data are stored as \"lists\" for each WVC row, with each list indexed by a \"cell_index\" array to indicate the cross-track WVC membership of the data. Each cell is then checked for land or ice and flagged accordingly. Attenuation corrections for each Sigma-0 measurement are also provided. Data are provided in single-orbit files in HDF-4 format. RapidScat is a Ku-band dual beam circular rotating scatterometer retaining much of the same hardware and functionality of QuikSCAT, with exception of the antenna sub-system and digital interface to the International Space Station (ISS) Columbus module, which is where RapidScat is mounted. The NASA mission is officially referred to as ISS-RapidScat. Unlike QuikSCAT, ISS-RapidScat is not in sun-synchronous orbit, and flies at roughly half the altitude with a low inclination angle that restricts data coverage to the tropics and mid-latitude regions; the extent of latitudinal coverage stretches from approximately 61 degrees North to 61 degrees South. Furthermore, there is no consistent local time of day retrieval."
+
+    },
+  
+    {
+
+      "title"    : "RapidScat Level 2A Surface Flagged Sigma-0 and Attenuations in 12.5Km Swath Grid Version 1.3",
+      "url"      : "/2020/11/12/rapidscat-level-2a-surface-flagged-sigma-0-and-attenuations-in-12.5km-swath-grid-version-1.3.html",
+      "content"  : "This dataset contains the Version 1.3 ISS-RapidScat on Level 2A 12.5 km science data record, which provides surface-flagged sigma-0 in 12.5 km Wind Vector Cells processed using the pulse \"slice\" Sigma-0 data provided by the Level 1B dataset. Version 1.3 is intended as a replacement and continuation of the Version 1.1 and Version 1.2 data forward from orbital revolution number 7873, corresponding to 11 February 2016; on 11 Feb 2016, RapidScat entered it's 3rd low signal to noise ratio (SNR) state and the initial calibration of low SNR 3 was preliminary during the Version 1.2 release. The fundamental difference between Version 1.3 and the previous Version 1.2 datasets is that the L1B sigma-0 has been re-calibrated during the periods of low SNR states 3 and 4 using re-pointed QuikSCAT data. Due to the circular scan of the RapidScat instrument the expected number of Sigma-0 cells per WVC is not constant. To minimize the L2A data volume, the Sigma-0 cell data are stored as \"lists\" for each WVC row, with each list indexed by a \"cell_index\" array to indicate the cross-track WVC membership of the data. Each cell is then checked for land or ice and flagged accordingly. Attenuation corrections for each Sigma-0 measurement are also provided. Data are provided in single-orbit files in HDF-4 format. RapidScat is a Ku-band dual beam circular rotating scatterometer retaining much of the same hardware and functionality of QuikSCAT, with exception of the antenna sub-system and digital interface to the International Space Station (ISS) Columbus module, which is where RapidScat is mounted. The NASA mission is officially referred to as ISS-RapidScat. Unlike QuikSCAT, ISS-RapidScat is not in sun-synchronous orbit, and flies at roughly half the altitude with a low inclination angle that restricts data coverage to the tropics and mid-latitude regions; the extent of latitudinal coverage stretches from approximately 61 degrees North to 61 degrees South. Furthermore, there is no consistent local time of day retrieval. If you have any questions or concerns, please visit our Forum at https://podaac.jpl.nasa.gov/forum/."
+
+    },
+  
+    {
+
+      "title"    : "RapidScat Level 2A Surface Flagged Sigma-0 and Attenuations in 12.5Km Swath Grid Version 1.2",
+      "url"      : "/2020/11/12/rapidscat-level-2a-surface-flagged-sigma-0-and-attenuations-in-12.5km-swath-grid-version-1.2.html",
+      "content"  : "This dataset contains the Version 1.2 ISS-RapidScat on Level 2A 12.5 km science data record, which provides surface-flagged sigma-0 in 12.5 km Wind Vector Cells processed using the pulse \"slice\" Sigma-0 data provided by the Level 1B dataset. Version 1.2 is intended as a replacement and continuation of the Version 1.1 data forward from orbital revolution number 5127, corresponding to 19 August 2015; the overlapping time period starting on 19 August 2015 corresponds to the first time period of the recorded low signal-to-noise ratio (SNR). This Version 1.2 dataset differs from the previous Version 1.1 dataset as follows: 1) L1B sigma-0 has been re-calibrated during the periods of low signal-to-noise ratio (SNR) and 2) during low SNR periods the L1B sigma-0 calibration is determined using re-pointed L1B QuikSCAT data. Due to the circular scan of the RapidScat instrument the expected number of Sigma-0 cells per WVC is not constant. To minimize the L2A data volume, the Sigma-0 cell data are stored as \"lists\" for each WVC row, with each list indexed by a \"cell_index\" array to indicate the cross-track WVC membership of the data. Each cell is then checked for land or ice and flagged accordingly. Attenuation corrections for each Sigma-0 measurement are also provided. Data are provided in single-orbit files in HDF-4 format. RapidScat is a Ku-band dual beam circular rotating scatterometer retaining much of the same hardware and functionality of QuikSCAT, with exception of the antenna sub-system and digital interface to the International Space Station (ISS) Columbus module, which is where RapidScat is mounted. The NASA mission is officially referred to as ISS-RapidScat. Unlike QuikSCAT, ISS-RapidScat is not in sun-synchronous orbit, and flies at roughly half the altitude with a low inclination angle that restricts data coverage to the tropics and mid-latitude regions; the extent of latitudinal coverage stretches from approximately 61 degrees North to 61 degrees South. Furthermore, there is no consistent local time of day retrieval. If you have any questions or concerns, please visit our Forum at https://podaac.jpl.nasa.gov/forum/."
+
+    },
+  
+    {
+
+      "title"    : "RapidScat Level 2A Surface Flagged Sigma-0 and Attenuations in 12.5Km Swath Grid Version 1.1",
+      "url"      : "/2020/11/12/rapidscat-level-2a-surface-flagged-sigma-0-and-attenuations-in-12.5km-swath-grid-version-1.1.html",
+      "content"  : "This dataset contains the ISS-RapidScat on Level 2A 12.5 km science data record, which provides surface-flagged sigma-0 in 12.5 km Wind Vector Cells processed using the pulse \"slice\" Sigma-0 data provided by the Level 1B dataset. Due to the circular scan of the RapidScat instrument the expected number of Sigma-0 cells per WVC is not constant. To minimize the L2A data volume, the Sigma-0 cell data are stored as \"lists\" for each WVC row, with each list indexed by a \"cell_index\" array to indicate the cross-track WVC membership of the data. Each cell is then checked for land or ice and flagged accordingly. Attenuation corrections for each Sigma-0 measurement are also provided. Data are provided in single-orbit files in HDF-4 format. RapidScat is a Ku-band dual beam circular rotating scatterometer retaining much of the same hardware and functionality of QuikSCAT, with exception of the antenna sub-system and digital interface to the International Space Station (ISS) Columbus module, which is where RapidScat is mounted. The NASA mission is officially referred to as ISS-RapidScat. Unlike QuikSCAT, ISS-RapidScat is not in sun-synchronous orbit, and flies at roughly half the altitude with a low inclination angle that restricts data coverage to the tropics and mid-latitude regions; the extent of latitudinal coverage stretches from approximately 61 degrees North to 61 degrees South. Furthermore, there is no consistent local time of day retrieval."
+
+    },
+  
+    {
+
+      "title"    : "RapidScat Level 1B Time-Ordered Geo-Located Sigma-0 Version 1.3",
+      "url"      : "/2020/11/12/rapidscat-level-1b-time-ordered-geo-located-sigma-0-version-1.3.html",
+      "content"  : "This dataset contains the ISS-RapidScat Version 1.3 Level 1B geo-located Sigma-0 measurements and antenna pulse \"egg\" and \"slice\" geometries as derived from ephemeris and the Level 1A dataset. Version 1.3 is intended as a replacement and continuation of the Version 1.2 data forward from orbital revolution number 7873, corresponding to 11 February 2016; on 11 Feb 2016, RapidScat entered it's 3rd low signal to noise ratio (SNR) state and the initial calibration of low SNR 3 was preliminary during the Version 1.2 release. The fundamental difference between Version 1.3 and the previous Version 1.2 datasets is that the L1B sigma-0 has been re-calibrated during the periods of low SNR states 3 and 4 using re-pointed QuikSCAT data. The pulse \"egg\" represents the complete footprint of the pulse, which has a spatial geometry of approximately 25 km by 35 km. There are 8 slices that constitute the range-binned components of a pulse each of which has a spatial geometry of approximately 25 km by 7 km. The orientation of the long dimension of the slices varies with the rotation of the antenna and thus does not align with the along/across track orientation of the wind vector grid in the L2B/L2A products. Data are provided in single-orbit files in HDF-4 format. RapidScat is a Ku-band dual beam circular rotating scatterometer retaining much of the same hardware and functionality of QuikSCAT, with exception of the antenna sub-system and digital interface to the ISS Columbus module, which is where RapidScat is mounted. The NASA mission is officially referred to as ISS-RapidScat. Unlike QuikSCAT, ISS-RapidScat is not in sun-synchronous orbit, and flies at roughly half the altitude with a low inclination angle that restricts data coverage to the tropics and mid-latitude regions; the extent of latitudinal coverage stretches from approximately 61 degrees North to 61 degrees South. Furthermore, there is no consistent local time of day retrieval. Caution: this dataset is intended for expert use only. If you must use RapidScat Sigma-0 data but you are unsure about how to use the L1B data record, please consider using either of the following L2A datasets: 1) http://podaac.jpl.nasa.gov/dataset/RSCAT_L2A_12KM_V1.3 or 2) http://podaac.jpl.nasa.gov/dataset/RSCAT_L2A_25KM_V1.3. If you have any questions or concerns, please visit our Forum at https://podaac.jpl.nasa.gov/forum/."
+
+    },
+  
+    {
+
+      "title"    : "RapidScat Level 1B Time-Ordered Geo-Located Sigma-0 Version 1.2",
+      "url"      : "/2020/11/12/rapidscat-level-1b-time-ordered-geo-located-sigma-0-version-1.2.html",
+      "content"  : "This dataset contains the ISS-RapidScat Version 1.2 Level 1B geo-located Sigma-0 measurements and antenna pulse \"egg\" and \"slice\" geometries as derived from ephemeris and the Level 1A dataset. Version 1.2 is intended as a replacement and continuation of the Version 1.1 data forward from orbital revolution number 5127, corresponding to 19 August 2015; the overlapping time period starting on 19 August 2015 corresponds to the first time period of the recorded low signal-to-noise ratio (SNR). This Version 1.2 dataset differs from the previous Version 1.1 dataset as follows: 1) L1B sigma-0 has been re-calibrated during the periods of low signal-to-noise ratio (SNR) and 2) during low SNR periods the L1B sigma-0 calibration is determined using re-pointed L1B QuikSCAT data. The pulse \"egg\" represents the complete footprint of the pulse, which has a spatial geometry of approximately 25 km by 35 km. There are 8 slices that constitute the range-binned components of a pulse each of which has a spatial geometry of approximately 25 km by 7 km. The orientation of the long dimension of the slices varies with the rotation of the antenna and thus does not align with the along/across track orientation of the wind vector grid in the L2B/L2A products. Data are provided in single-orbit files in HDF-4 format. RapidScat is a Ku-band dual beam circular rotating scatterometer retaining much of the same hardware and functionality of QuikSCAT, with exception of the antenna sub-system and digital interface to the ISS Columbus module, which is where RapidScat is mounted. The NASA mission is officially referred to as ISS-RapidScat. Unlike QuikSCAT, ISS-RapidScat is not in sun-synchronous orbit, and flies at roughly half the altitude with a low inclination angle that restricts data coverage to the tropics and mid-latitude regions; the extent of latitudinal coverage stretches from approximately 61 degrees North to 61 degrees South. Furthermore, there is no consistent local time of day retrieval. Caution: this dataset is intended for expert use only. If you must use RapidScat Sigma-0 data but you are unsure about how to use the L1B data record, please consider using either of the following L2A datasets: 1) http://podaac.jpl.nasa.gov/dataset/RSCAT_L2A_12KM_V1.2 or 2) http://podaac.jpl.nasa.gov/dataset/RSCAT_L2A_25KM_V1.2. If you have any questions or concerns, please visit our Forum at https://podaac.jpl.nasa.gov/forum/."
+
+    },
+  
+    {
+
+      "title"    : "RapidScat Level 1B Time-Ordered Geo-Located Sigma-0 Version 1.1",
+      "url"      : "/2020/11/12/rapidscat-level-1b-time-ordered-geo-located-sigma-0-version-1.1.html",
+      "content"  : "This dataset contains the geo-located Sigma-0 measurements and antenna pulse  \"egg\" and \"slice\" geometries as derived from ephemeris and the Level 1A dataset. The pulse \"egg\" represents the complete footprint of the pulse, which has a spatial geometry of approximately 25 km by 35 km. There are 8 slices that constitute the range-binned components of a pulse each of which has a spatial geometry of approximately 25 km by 7 km. The orientation of the long dimension of the slices varies with the rotation of the antenna and thus does not align with the along/across track orientation of the wind vector grid in the L2B/L2A products. Data are provided in single-orbit files in HDF-4 format. RapidScat is a Ku-band dual beam circular rotating scatterometer retaining much of the same hardware and functionality of QuikSCAT, with exception of the antenna sub-system and digital interface to the International Space Station (ISS) Columbus module, which is where RapidScat is mounted. The NASA mission is officially referred to as ISS-RapidScat. Unlike QuikSCAT, ISS-RapidScat is not in sun-synchronous orbit, and flies at roughly half the altitude with a low inclination angle that restricts data coverage to the tropics and mid-latitude regions; the extent of latitudinal coverage stretches from approximately 61 degrees North to 61 degrees South. Furthermore, there is no consistent local time of day retrieval. Caution: this dataset is intended for expert use only. If you must use RapidScat Sigma-0 data but you are unsure about how to use the L1B data record, please consider using either of the following L2A datasets: 1) http://podaac.jpl.nasa.gov/dataset/RSCAT_L2A_12KM_V1.1 or 2) http://podaac.jpl.nasa.gov/dataset/RSCAT_L2A_25KM_V1.1."
+
+    },
+  
+    {
+
+      "title"    : "Outgassing Db",
+      "url"      : "/2020/11/12/outgassing-db.html",
+      "content"  : "This tenth compilation of outgassing data of materials intended for spacecraft use supersedes Reference Publication 1124, Revision 3, September 1993. The data were obtained at the Goddard Space Flight Center (GSFC), utilizing equipment developed at Stanford Research Institute (SRI) under contract to the Jet Propulsion Laboratory (JPL)."
+
+    },
+  
+    {
+
+      "title"    : "Open Source And General Resource Software",
+      "url"      : "/2020/11/12/open-source-and-general-resource-software.html",
+      "content"  : "This dataset lists out all software in use by NASA"
+
+    },
+  
+    {
+
+      "title"    : "Near-Earth Comets - Orbital Elements",
+      "url"      : "/2020/11/12/near-earth-comets-orbital-elements.html",
+      "content"  : "The table below provides J2000 heliocentric ecliptic orbital elements\nfor 170 NECs (Near-Earth Comets) sorted by object number/name.\n\nhttp://neo.jpl.nasa.gov/cgi-bin/neo_elem?type=NEC"
+
+    },
+  
+    {
+
+      "title"    : "Near-Earth Comets - Orbital Elements",
+      "url"      : "/2020/11/12/near-earth-comets-orbital-elements.html",
+      "content"  : "The table below provides J2000 heliocentric ecliptic orbital elements\nfor 170 NECs (Near-Earth Comets) sorted by object number/name.\n\nhttp://neo.jpl.nasa.gov/cgi-bin/neo_elem?type=NEC"
+
+    },
+  
+    {
+
+      "title"    : "NASA Public Data Listing",
+      "url"      : "/2020/11/12/nasa-public-data-listing.html",
+      "content"  : "NASA Open Data Public Data List. This machine readable file contains meta-records for NASA open data sets."
+
+    },
+  
+    {
+
+      "title"    : "NASA Patents",
+      "url"      : "/2020/11/12/nasa-patents.html",
+      "content"  : "This dataset shows information pertaining to NASA held and pending patents."
+
+    },
+  
+    {
+
+      "title"    : "NASA Disasters Mapping Portal",
+      "url"      : "/2020/11/12/nasa-disasters-mapping-portal.html",
+      "content"  : "This entry does not contain data itself, it is for the website, the NASA Disasters Mapping Portal: https://maps.disasters.nasa.gov\n\nThe Disasters Mapping Portal contains numerous datasets that can be streamed from the Portal into GIS software.\n\nThe Disasters Applications area promotes the use of Earth observations to improve prediction of, preparation for, response to, and recovery from natural and technological disasters. Disaster applications and applied research on natural hazards support emergency mitigation approaches, such as early warning systems, and providing information and maps to disaster response and recovery teams.\n\nNOTE: Removed \"2017 - Present\" from \"Temporal Applicability\" since it's not valid\nNOTE: Removed \"Event-Specific and Near-Real Time Products\" from \"Update Frequency\" since it's not valid"
+
+    },
+  
+    {
+
+      "title"    : "NACP Site Tower Meteorology, Flux Observations with Uncertainty, and Ancillary Data",
+      "url"      : "/2020/11/12/nacp-site-tower-meteorology-flux-observations-with-uncertainty-and-ancillary-data.html",
+      "content"  : "This data set contains meteorological, carbon cycle flux, phenology, and ancillary data measured at 47 eddy covariance flux tower sites across North America. The data were used by North American Carbon Program (NACP) Site-Level Synthesis as model driver data and for assessing how well 24 Terrestrial Biosphere Models simulated carbon processes across vegetation types and environmental conditions.The meteorology data include eight variables: air temperature (K), specific humidity (kg/kg), wind speed (m/s), precipitation (kg/m2/s), surface pressure (Pa), surface incident shortwave radiation (W/m2), surface incident longwave radiation (W/m2), and CO2 concentration (ppm). Gap-filled data were used by modeling teams as input model driver data.Measured fluxes of net ecosystem exchange (NEE) and derived gross primary productivity (GPP) and respiration (R) and respective calculated uncertainty estimates are provided for each tower site at the native time resolution of the observations (30 or 60-minute) as well as the diurnal, seasonal, and annual time scales. The data were gap-filled following a standard protocol. Components of uncertainty include uncertainties resulting from turbulence, gap-filling, flux partitioning, and u* threshold determination. Flux observations and uncertainty data were used to assess how well models simulated carbon processes.Remotely sensed NDVI, LAI, and fPAR phenology data were derived from the GIMMS version g NDVI data set for each flux tower site. Phenology data were used by some modeling teams as input model driver data.Ancillary data and information describe tower location and physical characteristics, disturbance history, and biological and ecological attributes of the vegetation, litter, and soil. These ancillary data were used by modeling teams as input model driver data.The data files are in both ASCII text and NetCDF formats (ALMA standard). The compilation of these data was facilitated by the NACP Modeling and Synthesis Thematic Data Center (MAST-DC)."
+
+    },
+  
+    {
+
+      "title"    : "NACP Site Terrestrial Biosphere Model Output Data in Original Format",
+      "url"      : "/2020/11/12/nacp-site-terrestrial-biosphere-model-output-data-in-original-format.html",
+      "content"  : "This data set contains the original model output data submissions from the 24 terrestrial biosphere models (TBM) that participated in the North American Carbon Program (NACP) Site-Level Synthesis. The model teams generated estimates for, but not limited to,  a minimum of six variables, including gross primary productivity (GPP), net ecosystem exchange (NEE), leaf area index (LAI), ecosystem respiration (Re), latent heat flux (LE), and sensible heat flux (H) for each of 47 selected eddy covariance flux tower sites across North America. Participating modeling teams followed the NACP Site Synthesis Protocol (site_synthesis_protocol_v7.pdf), which covers procedures, plans, and infrastructure for the site-level analyses. File format and units conversions of several data submissions were made by the MAST-DC to produce NetCDF files of consistent content and structure for all 24 TBM outputs. The model outputs are structured as described in Appendix A: Model Output Variables, of the Site Synthesis Protocol. In addition, MAST-DC processed these original model submissions to derive uniquely processed and formatted data files for model inter-comparison and evaluation (NACP Site: Terrestrial Biosphere Model and Aggregated Flux Data in Standard Format). This related data set provides GPP, NEE, LAI, Re, LE, and sensible heat (H) model output variables at the native half-hourly time step, and in daily, monthly, and annual aggregations. The related data set also contains gap-filled observations and total uncertainty estimates at the same time steps.There are 24 compressed (*.zip) files with this data set – one file for each model. When expanded, the .zip files contain model output data files for flux tower sites in NetCDF and some in text formats."
+
+    },
+  
+    {
+
+      "title"    : "NACP Site Terrestrial Biosphere Model and Aggregated Flux Data in Standard Format",
+      "url"      : "/2020/11/12/nacp-site-terrestrial-biosphere-model-and-aggregated-flux-data-in-standard-format.html",
+      "content"  : "This data set provides standardized output variables for gross primary productivity (GPP), net ecosystem exchange (NEE), leaf area index (LAI), ecosystem respiration (Re), latent heat flux (LE), and sensible heat flux (H) from 24 terrestrial biosphere models for 47 eddy covariance flux tower sites in North America. Each model used standardized input data for each flux tower site (i.e., gap-filled, locally observed weather; land use history; and other site specific data) and followed standard model setup and spinup procedures. The files also contain gap-filled observations and total uncertainty estimates. The data set was compiled for the North American Carbon Program (NACP) Site-Level Synthesis for use in model inter-comparison and assessment of how well the models simulate carbon processes across vegetation types and environmental conditions in North America. There is one compressed (.zip) file with this data set. When expanded, the .zip file contains model output data for one variable at one site. The model output and observations are available at the native half-hourly time step, or in daily, monthly, and annual aggregations, in comma-separated text (.csv) format."
+
+    },
+  
+    {
+
+      "title"    : "NACP North American Forest Dynamics Project Forest Disturbance and Regrowth Data",
+      "url"      : "/2020/11/12/nacp-north-american-forest-dynamics-project-forest-disturbance-and-regrowth-data.html",
+      "content"  : "This data set provides the results of time-series analyses of Landsat imagery for 55 selected forested sites across the conterminous U.S.A. The output is a pair of disturbance data products for each site, one showing the first year of disturbance in the time series, the other showing the last year of disturbance. Each data pixel is labeled as either a static land class (persistent non-forest, persistent forest, or persistent water) or with the year of change for disturbed forest pixels. The time period analyzed is approximately 1984-2009.These forest disturbance data are distributed as a single band GeoTiff, with appropriate projection information defined within the file. The analyses were performed in three phases: 5 sites during the Prototype/Focal phase; 23 sites in Phase I; and 27 sites in Phase II. The spatial resolution of the Prototype/Focal and Phase I data is 28.5 meters. The spatial resolution of the Phase II data is 30 meters. The temporal resolution is nominally biennial. The mapped area for each forested site is approximately 185 km x 185 km. There are a total of 110 GeoTiff files - a first year and a last year disturbance file for each of the 55 sites."
+
+    },
+  
+    {
+
+      "title"    : "NACP MCI Tower Atmospheric CO2 Concentrations, Upper Midwest Region, USA, 2007-2009",
+      "url"      : "/2020/11/12/nacp-mci-tower-atmospheric-co2-concentrations-upper-midwest-region-usa-2007-2009.html",
+      "content"  : "This data set provides high precision and high accuracy atmospheric CO2 data from seven instrumented communication towers located in the U.S. Upper Midwest. The overall sampling period was from January 2007 through December 2009 although actual sampling dates vary within this time period for individual towers and sampling heights above ground level. The measurements were obtained in support of the North American Carbon Program (NACP) Mid-Continent Intensive (MCI) campaign.The sampling network included: the five Ring 2 towers (Centerville (Iowa), Galesville (Wisconsin), Kewanee (Illinois), Mead (Nebraska), and Round Lake (Minnesota)) deployed and operated by PSU; the Missouri Ozarks (Missouri) co-located AmeriFlux site (PSU/Oak Ridge National Laboratory (ORNL)); and the Rosemount (Minnesota) tall tower trace gas observatory (University of Minnesota, Rosemount Research and Outreach Center (RROC)). Hourly CO2 dry mole fractions (in ppm) were averaged from measurements made at different above-ground levels on the towers and are reported in Coordinated Universal Time (UTC). For the five Ring 2 sites, daily daytime average CO2 dry mole fractions were also calculated, from hourly values between 12:00-17:00 local standard time and reported in UTC. There are seven compressed (.zip) data files and one comma-separated (.csv) file with this data set. Data quality flags are provided in each file."
+
+    },
+  
+    {
+
+      "title"    : "NACP MCI CO2 Flux from Inversion Modeling, Upper Midwest Region, USA, 2007",
+      "url"      : "/2020/11/12/nacp-mci-co2-flux-from-inversion-modeling-upper-midwest-region-usa-2007.html",
+      "content"  : "This data set provides estimates of Net Ecosystem Exchange (NEE) flux for the U.S. Upper Midwest at 0.5-degree resolution for the year 2007. Estimates were produced by two atmospheric CO2 inversion systems (top-down), referenced as the continental Colorado State University (CSU) inversion and the mesoscale Pennsylvania State University (PSU) inversion. This modeling work was performed in support of the North American Carbon Program (NACP) Mid-Continent Intensive (MCI) experimental campaign in the U.S. Upper Midwest designed to evaluate innovative methods for CO2 flux inversion and data assimilation. The experiment was performed over a relatively flat, heavily managed agricultural landscape which features a high density of atmospheric CO2 observation measurements. Among the CO2 observations used by the inversion systems were results from a network of instrumented tall towers in the region. The NEE estimates were produced for comparison with CO2 fluxes derived from bottom-up inventory estimates.There are five data files with this data set. The NEE estimates are provided in two NetCDF files, one for each inversion system. Boundary CO2 inflow data used by each inversion system are provided in three comma-separated-format files (.csv)."
+
+    },
+  
+    {
+
+      "title"    : "NACP MCI CO2 Emissions Inventory, Upper Midwest Region, USA., 2007",
+      "url"      : "/2020/11/12/nacp-mci-co2-emissions-inventory-upper-midwest-region-usa.-2007.html",
+      "content"  : "This data set provides a bottom-up CO2 emissions inventory for the mid-continent region of the United States for the year 2007. The study was undertaken as part of the North American Carbon Program (NACP) Mid-Continent Intensive (MCI) campaign. Emissions for the MCI region were compiled from these resources into nine inventory sources (Table 1):(1) forest biomass and soil carbon, harvested woody products carbon, and agricultural soil carbon from the U.S. Greenhouse Gas (GHG) Inventory (EPA, 2010; Heath et al., 2011);(2) high resolution data on fossil and biofuel CO2 emissions from Vulcan (Gurney et al,. 2009); (3) CO2 uptake by agricultural crops, lateral transport in crop biomass harvest, and livestock CO2 emissions using USDA statistics (West et al., 2011); (4) agricultural residue burning (McCarty et al., 2011);(5) CO2 emissions from landfills (EPA, 2012);(6) and CO2 losses from human respiration using U.S. Census data (West et al., 2009). The CO2 inventory in the MCI region was dominated by fossil fuel combustion, carbon uptake during crop production, carbon export in biomass (commodities) from the region, and to a lesser extent, carbon sinks in forest growth and incorporation of carbon into timber products."
+
+    },
+  
+    {
+
+      "title"    : "NACP Integrated Wildland and Cropland 30-m Fuel Characteristics Map, U.S.A., 2010",
+      "url"      : "/2020/11/12/nacp-integrated-wildland-and-cropland-30-m-fuel-characteristics-map-u.s.a.-2010.html",
+      "content"  : "The data set provides a 30-m comprehensive fuelbed characteristics map for both the wildland and cropland areas of the conterminous United States (CONUS) for 2010. This integrated product is the result of combining the spatially discrete Fuel Characteristic Classification System (FCCS) data of the US Forest Service (USFS) with the crop-and grassland-specific information of the US Department of Agricultures (USDA's) Cropland Data Layer (CDL).  By combining the spatially discrete details of the FCCS data set with the crop-and grassland-specific information of the CDL, a more robust map of fuelbed characteristics is available. The merged product has an advantage over the original FCCS map for estimating emissions from burned areas due to the integration of the fuelbed characteristics for agricultural areas from the CDL.There are three GeoTIFF format files and three comma-separated companion files distributed with this data set. The three tif files provided are very large and exceed the size limits of a standard GeoTIFF file format (4 GB). File sizes range from 20 to 30 GB. Compressed file sizes range from 2 to 3 GB. They are in a format that is called a BigTIFF file. ArcGIS 10.0 and ERDAS Imagine are able to read these files."
+
+    },
+  
+    {
+
+      "title"    : "NACP Greenhouse Gases Multi-Source Data Compilation, 2000-2009",
+      "url"      : "/2020/11/12/nacp-greenhouse-gases-multi-source-data-compilation-2000-2009.html",
+      "content"  : "This data set is a collection of measurements of carbon dioxide (CO2) and non-CO2 greenhouse gases made across North America by nine independent atmospheric monitoring networks from 2000 - 2009. During this North American Carbon Program (NACP) sponsored activity, data were compiled from the following networks: AGAGE, COBRA, CSIRO, INTEX-A, INTEX B, Irvine Latitude Network, NOAA CMDL, SCRIPPS, and Stanley Tyler-UC Irvine. The files presented here are the products of merging multiple original measurement results files for selected sites across North America from each monitoring network. The primary focus of this effort was the compilation of non-CO2 greenhouse gases over North America, but numerous CO2 observations are also included. The data files for each network are accompanied by detailed readme documentation files prepared by the respective network investigators. Project descriptions, objectives, references, sampling and analysis methods, and data file descriptions are included in these READMEs. Table 1 in the documentation displays the monitoring network sites, sample types, analytes, and links to the detailed network README files. Network- and laboratory-specific data citations are included in the README documentation and should be used to acknowledge the use of these data as appropriate. The data files for each monitoring network and each sampling type (continuous or flasks) have been combined into one compressed (*.zip) file along with the detailed README document. There are 17 compressed files that when expanded contain data files which represent one years data for that specific campaign and sampling method. The number of annual files that were compiled from a network into this collection varies."
+
+    },
+  
+    {
+
+      "title"    : "Meteorite Landings",
+      "url"      : "/2020/11/12/meteorite-landings.html",
+      "content"  : "This comprehensive data set from The Meteoritical Society contains information on all of the known meteorite landings. The Fusion Table is collected by Javier de la Torre and we've also provided an XLS file that consists of 34,513 meteorites and includes the following fields:\nplace\ntype_of_meteorite\nmass_g\nfell_found\nyear\ndatabase\ncoordinate_1\ncoordinates_2\ncartodb_id\ncreated_at\nupdated_at\nyear_date\nlongitude\nlatitude\ngeojson\n\n**5/14/13\nPlease find an updated data set from The Meteoritical Society that includes more recent meteorites. Under NameType, 'valid' is for most meteorites and 'relict' are for objects that were once meteorites but are now highly altered by weathering on Earth.\n\nhttp://visualizing.org/datasets/meteorite-landings"
+
+    },
+  
+    {
+
+      "title"    : "LiDAR Surveys over Selected Forest Research Sites, Brazilian Amazon, 2008-2018",
+      "url"      : "/2020/11/12/lidar-surveys-over-selected-forest-research-sites-brazilian-amazon-2008-2018.html",
+      "content"  : "This dataset provides the complete catalog of point cloud data collected during LiDAR surveys over selected forest research sites across the Amazon rainforest in Brazil between 2008 and 2018 for the Sustainable Landscapes Brazil Project. Flight lines were selected to overfly key field research sites in the Brazilian states of Acre, Amazonas, Bahia, Goias, Mato Grosso, Para, Rondonia, Santa Catarina, and Sao Paulo. The point clouds have been georeferenced, noise-filtered, and corrected for misalignment of overlapping flight lines. They are provided in 1 km2 tiles. The data were collected to measure forest canopy structure across Amazonian landscapes to monitor the effects of selective logging on forest biomass and carbon balance, and forest recovery over time."
+
+    },
+  
+    {
+
+      "title"    : "LBA-ECO LC-23 ASTER and MODIS Fire Data Comparison for Brazil 2003-2004",
+      "url"      : "/2020/11/12/lba-eco-lc-23-aster-and-modis-fire-data-comparison-for-brazil-2003-2004.html",
+      "content"  : "This data set contains data associated with MODIS fire maps generated using two different algorithms and compared against fire maps produced by ASTER. These data relate to a paper (Morisette et al., 2005) that describes the use of high spatial resolution ASTER data to evaluate the characteristics of two fire detection algorithms, both applied to MODIS-Terra data and both operationally producing publicly available fire locations. The two algorithms are NASA's operational Earth Observing System MODIS fire detection product and Brazil's National Institute for Space Research (INPE) algorithm. These data are the ASCII files used in the logistic regression and error matrices presented in the paper."
+
+    },
+  
+    {
+
+      "title"    : "LBA-ECO LC-07 Validation Overflight for Amazon Mosaics, Video, 1999",
+      "url"      : "/2020/11/12/lba-eco-lc-07-validation-overflight-for-amazon-mosaics-video-1999.html",
+      "content"  : "This data set presents georeferenced digital video files from Validation Overflight for Amazon Mosaics (VOAM) aerial video surveys as part of the Large-Scale Biosphere-Atmosphere Experiment in the Amazon. The VOAM flights were carried out in the wet-season (June) 1999 in the Brazilian Amazon to provide ground verification for mapping of wetland cover with the Global Rain Forest Mapping (GRFM) Project JERS-1 (Japanese Earth Remote Sensing Satellite) mosaics of the Amazon basin. Digital camcorder systems were installed in a Bandeirante survey plane operated by Brazil's National Institute for Space Research. The VOAM99 surveys circumscribed the Brazilian Amazon, documenting ground conditions at resolutions on the order of 1-m (wide-angle format) and 10-cm (zoom format) for wetlands, forests, savannas, and human-impacted areas. Other applications of the VOAM videography include acquisition of ground control points for image geolocation, creation of a high-resolution geocoded mosaic of a forest study area, forest biomass estimation, and rapid assessment of fire damage. Geocoded digital videography provides a cost-effective means of compiling a high-resolution validation data set for land cover mapping in remote, cloud-covered regions."
+
+    },
+  
+    {
+
+      "title"    : "LBA-ECO LC-02 Biophysical Measurements of Forests, Acre, Brazil 1999-2002",
+      "url"      : "/2020/11/12/lba-eco-lc-02-biophysical-measurements-of-forests-acre-brazil-1999-2002.html",
+      "content"  : "This data set provides diameter at breast height (DBH) measurements for 1,063 trees located at the Catuaba Experimental Farm, and 812 trees located in the Humaita Forest Reserve. Both sites are in the state of Acre, southwest Amazonia, Brazil. Measurements were made on individuals with DBH between 10 and 35 cm and individuals with DBH &gt; 35 cm.  The Catuaba Experimental Farm is part of a forest fragment of approximately 800 ha. The Humaita Forest Reserve is located in a 1,500-ha forest band with dominant bamboo characteristic. Ten-ha areas were inventoried at both sites. There is one data file in comma-delimited (.csv) format with this data set. There is also one companion data file with supplemental Catuaba site tree height and biomass data."
+
+    },
+  
+    {
+
+      "title"    : "LBA-ECO CD-10 Tree DBH Measurements at the km 67 Tower Site, Tapajos National Forest",
+      "url"      : "/2020/11/12/lba-eco-cd-10-tree-dbh-measurements-at-the-km-67-tower-site-tapajos-national-forest.html",
+      "content"  : "This data sets reports diameter at breast height (DBH) measurements in the old-growth upland forest at the Para Western (Santarem) - km 67, Primary Forest Tower Site. This site is in the Tapajos National Forest located in north central Brazil. Measurements were made periodically from July 1999 through August 2005.Trees with DBH &gt;35cm were measured for ~2600 trees in four 5ha transects. Trees &gt;10cm were measured in a smaller area (Rice et al., 2004). Measurements were made in 1999, 2001, and 2005. Trees are identified by local common names.  A cross reference to scientific names is provided as a companion file.Coarse woody debris and litter samples and measurements were collected same area. See related data sets."
+
+    },
+  
+    {
+
+      "title"    : "LBA-ECO CD-06 Biogeochemistry of Ji-Parana River and Tributaries, Brazil 1999-2003",
+      "url"      : "/2020/11/12/lba-eco-cd-06-biogeochemistry-of-ji-parana-river-and-tributaries-brazil-1999-2003.html",
+      "content"  : "This data set provides spatially extensive and temporally intensive surveys of the river biogeochemistry of the Ji-Parana River Basin in Western Amazonia, Rondonia, Brazil. The concentrations of major nutrient ions, dissolved organic and inorganic carbon, pH, temperature, dissolved oxygen, and conductivity were measured in Ji-Parana River and tributary samples at the defined seasonal or monthly intervals. Dominant landuse/landcover classes, slope, and soil cation exchange capacity are included for each of the extensive sampling locations derived from river basin and sub-basin characteristics.Water samples were collected from 1999 to 2003 along the main stem of the Ji-Parana River as well as from the major tributaries including the Urupa. Shapefiles with the boundaries of the major sub-basins of the study area as well as the location of the sample collection points are included for the intensive and extensive sampling campaigns as well as the Urupa River campaign. There are six comma-separated data files (.csv) and five compressed shapefiles (.zip) with this data set."
+
+    },
+  
+    {
+
+      "title"    : "JPL TELLUS GRACE Level-3 Monthly Ocean Bottom Pressure Anomaly Release 6.0 version 03 in netCDF/ASCII/GeoTIFF Formats",
+      "url"      : "/2020/11/12/jpl-tellus-grace-level-3-monthly-ocean-bottom-pressure-anomaly-release-6.0-version-03-in-netcdfasciigeotiff-formats.html",
+      "content"  : "The monthly ocean bottom pressure anomaly grids are given as equivalent water thickness changes derived from GRACE &amp; GRACE-FO time-variable gravity observations during the specified timespan, and relative to the specified time-mean reference period. The Equivalent water thickness represent sea floor pressure changes due to the integral effect of ocean and atmosphere processes, including global mean ocean bottom pressure changes (mean ocean mass and mean atmosphere mass over the global oceans). The Level-2 GAD product has been added back, a glacial isostatic adjustment (GIA) correction has been applied, and standard corrections for geocenter (degree-1), C20 (degree-20) and C30 (degree-30) are incorporated. Post-processing filters (i.e., de-striping and spatial smoothing) have been applied to reduce correlated errors. Version 03 (v03) of the ocean bottom pressure data uses updated and consistent C20 and Geocenter corrections (i.e., Technical Notes TN-14 and TN-13).Data grids are provided in ASCII/netCDF/GeoTIFF formats. For the RL06 version, all GRACE products in the ASCII format have adopted the YAML encoding header, which is in full compliance with the PO.DAAC metadata best practices."
+
+    },
+  
+    {
+
+      "title"    : "JPL TELLUS GRACE Level-3 Monthly Land Water-Equivalent-Thickness Surface Mass Anomaly Release 6.0 version 03 in netCDF/ASCII/GeoTIFF Formats",
+      "url"      : "/2020/11/12/jpl-tellus-grace-level-3-monthly-land-water-equivalent-thickness-surface-mass-anomaly-release-6.0-version-03-in-netcdfasciigeotiff-formats.html",
+      "content"  : "The monthly land mass grids contain water mass anomalies given as equivalent water thickness derived from GRACE &amp; GRACE-FO time-variable gravity observations during the specified timespan, and relative to the specified time-mean reference period. The Equivalent water thickness represents the total terrestrial water storage anomalies from soil moisture, snow, surface water (incl. rivers, lakes, reservoirs etc.), as well as groundwater and aquifers. A glacial isostatic adjustment (GIA) correction has been applied, and standard corrections for geocenter (degree-1), C20 (degree-20) and C30 (degree-30) are incorporated. Post-processing filters have been applied to reduce correlated errors. Version 03 (v03) of the terrestrial water storage data uses updated and consistent C20 and Geocenter corrections (i.e., Technical Notes TN-14 and TN-13).Data grids are provided in ASCII/netCDF/GeoTIFF formats. For the RL06 version, all GRACE products in the ASCII format have adopted the YAML encoding header, which is in full compliance with the PO.DAAC metadata best practices."
+
+    },
+  
+    {
+
+      "title"    : "JPL TELLUS GRACE-FO Level-3 Monthly Ocean Bottom Pressure Anomaly Release 6.0 version 03 in netCDF/ASCII/GeoTIFF Formats",
+      "url"      : "/2020/11/12/jpl-tellus-grace-fo-level-3-monthly-ocean-bottom-pressure-anomaly-release-6.0-version-03-in-netcdfasciigeotiff-formats.html",
+      "content"  : "The monthly ocean bottom pressure anomaly grids are given as equivalent water thickness changes derived from GRACE &amp; GRACE-FO time-variable gravity observations during the specified timespan, and relative to the specified time-mean reference period. The Equivalent water thickness represent sea floor pressure changes due to the integral effect of ocean and atmosphere processes, including global mean ocean bottom pressure changes (mean ocean mass and mean atmosphere mass over the global oceans). The Level-2 GAD product has been added back, a glacial isostatic adjustment (GIA) correction has been applied, and standard corrections for geocenter (degree-1), C20 (degree-20) and C30 (degree-30) are incorporated. Post-processing filters (i.e., de-striping and spatial smoothing) have been applied to reduce correlated errors. Version 03 (v03) of the ocean bottom pressure data uses updated and consistent C20 and Geocenter corrections (i.e., Technical Notes TN-14 and TN-13).Data grids are provided in ASCII/netCDF/GeoTIFF formats. For the RL06 version, all GRACE products in the ASCII format have adopted the YAML encoding header, which is in full compliance with the PO.DAAC metadata best practices."
+
+    },
+  
+    {
+
+      "title"    : "JPL TELLUS GRACE-FO Level-3 Monthly Land Water-Equivalent-Thickness Surface Mass Anomaly Release 6.0 version 03 in netCDF/ASCII/GeoTIFF Formats",
+      "url"      : "/2020/11/12/jpl-tellus-grace-fo-level-3-monthly-land-water-equivalent-thickness-surface-mass-anomaly-release-6.0-version-03-in-netcdfasciigeotiff-formats.html",
+      "content"  : "The monthly land mass grids contain water mass anomalies given as equivalent water thickness derived from GRACE &amp; GRACE-FO time-variable gravity observations during the specified timespan, and relative to the specified time-mean reference period. The Equivalent water thickness represents the total terrestrial water storage anomalies from soil moisture, snow, surface water (incl. rivers, lakes, reservoirs etc.), as well as groundwater and aquifers. A glacial isostatic adjustment (GIA) correction has been applied, and standard corrections for geocenter (degree-1), C20 (degree-20) and C30 (degree-30) are incorporated. Post-processing filters have been applied to reduce correlated errors. Version 03 (v03) of the terrestrial water storage data uses updated and consistent C20 and Geocenter corrections (i.e., Technical Notes TN-14 and TN-13).Data grids are provided in ASCII/netCDF/GeoTIFF formats. For the RL06 version, all GRACE products in the ASCII format have adopted the YAML encoding header, which is in full compliance with the PO.DAAC metadata best practices."
+
+    },
+  
+    {
+
+      "title"    : "JPL GRACE and GRACE-FO Mascon Ocean, Ice, and Hydrology Equivalent Water Height JPL Release 06 Version 02",
+      "url"      : "/2020/11/12/jpl-grace-and-grace-fo-mascon-ocean-ice-and-hydrology-equivalent-water-height-jpl-release-06-version-02.html",
+      "content"  : "This dataset contains gridded monthly global water storage/height anomalies relative to a time-mean, derived from GRACE and GRACE-FO and processed at JPL using the Mascon approach (Version2/RL06).  These data are provided in a single data file in netCDF format, and can be used for analysis for ocean, ice, and hydrology phenomena. The water storage/height anomalies are given in equivalent water thickness units (cm). The solution provided here is derived from solving for monthly gravity field variations in terms of geolocated spherical cap mass concentration functions, rather than global spherical harmonic coefficients. Additionally, realistic geophysical information is introduced during the solution inversion to intrinsically remove correlated error. Thus, these Mascon grids do not need to be destriped or smoothed, like traditional spherical harmonic gravity solutions. The complete Mascon solution consists of 4,551 relatively independent estimates of surface mass change that have been derived using an equal-area 3-degree grid of individual mascons. It should be noted that this dataset does not correct for leakage errors across coastlines; it is therefore recommended only for users who want to apply their own algorithm to separate between land and ocean mass very near coastlines. Please refer to the 'Data Access' tab at the top of this page to gain direct access to the Mascon data. For more information, please visit https://grace.jpl.nasa.gov/data/get-data/jpl_global_mascons/. For a detailed description on the Mascon solution, including the mathematical derivation, implementation of geophysical constraints, and solution validation, please see Watkins et al., 2015, doi: 10.1002/2014JB011547. This product is intended for expert use only; other users are encouraged to use the CRI-filtered Mascon dataset, which is available here: https://podaac.jpl.nasa.gov/dataset/TELLUS_GRACE_MASCON_CRI_GRID_RL06_V2."
+
+    },
+  
+    {
+
+      "title"    : "JPL GRACE and GRACE-FO Mascon Ocean, Ice, and Hydrology Equivalent Water Height Coastal Resolution Improvement (CRI) Filtered Release 06 Version 02",
+      "url"      : "/2020/11/12/jpl-grace-and-grace-fo-mascon-ocean-ice-and-hydrology-equivalent-water-height-coastal-resolution-improvement-cri-filtered-release-06-version-02.html",
+      "content"  : "This dataset contains gridded monthly global water storage/height anomalies relative to a time-mean, derived from GRACE and GRACE-FO and processed at JPL using the Mascon approach (Version2/RL06). These data are provided in a single data file in netCDF format, and can be used for analysis for ocean, ice, and hydrology phenomena. This version of the data employs a Coastal Resolution Improvement (CRI) filter that reduces signal leakage errors across coastlines. The water storage/height anomalies are given in equivalent water thickness units (cm). The solution provided here is derived from solving for monthly gravity field variations in terms of geolocated spherical cap mass concentration functions, rather than global spherical harmonic coefficients. Additionally, realistic geophysical information is introduced during the solution inversion to intrinsically remove correlated error. Thus, these Mascon grids do not need to be destriped or smoothed, like traditional spherical harmonic gravity solutions. The complete Mascon solution consists of 4,551 relatively independent estimates of surface mass change that have been derived using an equal-area 3-degree grid of individual mascons. A subset of these individual mascons span coastlines, and contain mixed land and ocean mass change signals.  In a post-processing step, the CRI filter is applied to those mixed land/ocean Mascons to separate land and ocean mass. The land mask used to perform this separation is provided in the same directory as this dataset. Since the individual mascons act as an inherent smoother on the gravity field, a set of optional gain factors (for continental hydrology applications) that can be applied to the solution to study mass change signals at sub-mascon resolution is also provided within the same data directory as the Mascon data. Please refer to the 'Data Access' tab at the top of this page to gain direct access to the Mascon data. For more information, please visit https://grace.jpl.nasa.gov/data/get-data/jpl_global_mascons/. For a detailed description on the Mascon solution, including the mathematical derivation, implementation of geophysical constraints, and solution validation, please see Watkins et al., 2015, doi: 10.1002/2014JB011547.  For a detailed description of the CRI filter implementation, please see Wiese et al., 2016, doi:10.1002/2016WR019344."
+
+    },
+  
+    {
+
+      "title"    : "In-situ Air Temperature and Relative Humidity in Greenbelt, MD, 2013-2015",
+      "url"      : "/2020/11/12/in-situ-air-temperature-and-relative-humidity-in-greenbelt-md-2013-2015.html",
+      "content"  : "This data set describes the temperature and relative humidity at 12 locations around Goddard Space Flight Center in Greenbelt MD at 15 minute intervals between November 2013 and November 2015. These data were collected to study the impact of surface type on heating in a campus setting and to improve the understanding of urban heating and potential mitigation strategies on the campus scale. Sensors were mounted on posts at 2 m above surface and placed on 7 different surface types around the centre: asphalt parking lot, bright surface roof, grass field, forest, and stormwater mitigation features (bio-retention pond and rain garden). Data were also recorded in an office setting and a garage, both pre- and post-deployment, for calibration purposes. This dataset could be used to validate satellite-based study or could be used as a stand-alone study of the impact of surface type on heating in a campus setting."
+
+    },
+  
+    {
+
+      "title"    : "Global Landslide Catalog",
+      "url"      : "/2020/11/12/global-landslide-catalog.html",
+      "content"  : "The Global Landslide Catalog (GLC) was developed with the goal of identifying rainfall-triggered landslide events around the world, regardless of size, impacts or location. The GLC considers all types of mass movements triggered by rainfall, which have been reported in the media, disaster databases, scientific reports, or other sources. The GLC has been compiled since 2007 at NASA Goddard Space Flight Center."
+
+    },
+  
+    {
+
+      "title"    : "Global Landslide Catalog Export",
+      "url"      : "/2020/11/12/global-landslide-catalog-export.html",
+      "content"  : "The Global Landslide Catalog (GLC) was developed with the goal of identifying rainfall-triggered landslide events around the world, regardless of size, impacts or location. The GLC considers all types of mass movements triggered by rainfall, which have been reported in the media, disaster databases, scientific reports, or other sources. The GLC has been compiled since 2007 at NASA Goddard Space Flight Center. This is a unique data set with the ID tag “GLC” in the landslide editor. This dataset on data.nasa.gov was a one-time export from the Global Landslide Catalog maintained separately. It is current as of March 7, 2016. The original catalog is available here: http://www.arcgis.com/home/webmap/viewer.html?url=https%3A%2F%2Fmaps.nccs.nasa.gov%2Fserver%2Frest%2Fservices%2Fglobal_landslide_catalog%2Fglc_viewer_service%2FFeatureServer&amp;source=sd. To export GLC data, you must agree to the “Terms and Conditions”. We request that anyone using the GLC cite the two sources of this database: Kirschbaum, D. B., Adler, R., Hong, Y., Hill, S., &amp; Lerner-Lam, A. (2010). A global landslide catalog for hazard applications: method, results, and limitations. Natural Hazards, 52(3), 561–575. doi:10.1007/s11069-009-9401-4. [1] Kirschbaum, D.B., T. Stanley, Y. Zhou (In press, 2015). Spatial and Temporal Analysis of a Global Landslide Catalog. Geomorphology. doi:10.1016/j.geomorph.2015.03.016. [2]"
+
+    },
+  
+    {
+
+      "title"    : "GFZ TELLUS GRACE Level-3 Monthly Ocean Bottom Pressure Anomaly Release 6.0 version 03 in netCDF/ASCII/GeoTIFF Formats",
+      "url"      : "/2020/11/12/gfz-tellus-grace-level-3-monthly-ocean-bottom-pressure-anomaly-release-6.0-version-03-in-netcdfasciigeotiff-formats.html",
+      "content"  : "The monthly ocean bottom pressure anomaly grids are given as equivalent water thickness changes derived from GRACE &amp; GRACE-FO time-variable gravity observations during the specified timespan, and relative to the specified time-mean reference period. The Equivalent water thickness represent sea floor pressure changes due to the integral effect of ocean and atmosphere processes, including global mean ocean bottom pressure changes (mean ocean mass and mean atmosphere mass over the global oceans). The Level-2 GAD product has been added back, a glacial isostatic adjustment (GIA) correction has been applied, and standard corrections for geocenter (degree-1), C20 (degree-20) and C30 (degree-30) are incorporated. Post-processing filters (i.e., de-striping and spatial smoothing) have been applied to reduce correlated errors. Version 03 (v03) of the ocean bottom pressure data uses updated and consistent C20 and Geocenter corrections (i.e., Technical Notes TN-14 and TN-13).Data grids are provided in ASCII/netCDF/GeoTIFF formats. For the RL06 version, all GRACE products in the ASCII format have adopted the YAML encoding header, which is in full compliance with the PO.DAAC metadata best practices."
+
+    },
+  
+    {
+
+      "title"    : "GFZ TELLUS GRACE Level-3 Monthly Land Water-Equivalent-Thickness Surface Mass Anomaly Release 6.0 version 03 in netCDF/ASCII/GeoTIFF Formats",
+      "url"      : "/2020/11/12/gfz-tellus-grace-level-3-monthly-land-water-equivalent-thickness-surface-mass-anomaly-release-6.0-version-03-in-netcdfasciigeotiff-formats.html",
+      "content"  : "The monthly land mass grids contain water mass anomalies given as equivalent water thickness derived from GRACE &amp; GRACE-FO time-variable gravity observations during the specified timespan, and relative to the specified time-mean reference period. The Equivalent water thickness represents the total terrestrial water storage anomalies from soil moisture, snow, surface water (incl. rivers, lakes, reservoirs etc.), as well as groundwater and aquifers. A glacial isostatic adjustment (GIA) correction has been applied, and standard corrections for geocenter (degree-1), C20 (degree-20) and C30 (degree-30) are incorporated. Post-processing filters have been applied to reduce correlated errors. Version 03 (v03) of the terrestrial water storage data uses updated and consistent C20 and Geocenter corrections (i.e., Technical Notes TN-14 and TN-13).Data grids are provided in ASCII/netCDF/GeoTIFF formats. For the RL06 version, all GRACE products in the ASCII format have adopted the YAML encoding header, which is in full compliance with the PO.DAAC metadata best practices."
+
+    },
+  
+    {
+
+      "title"    : "GFZ TELLUS GRACE-FO Level-3 Monthly Ocean Bottom Pressure Anomaly Release 6.0 version 03 in netCDF/ASCII/GeoTIFF Formats",
+      "url"      : "/2020/11/12/gfz-tellus-grace-fo-level-3-monthly-ocean-bottom-pressure-anomaly-release-6.0-version-03-in-netcdfasciigeotiff-formats.html",
+      "content"  : "The monthly ocean bottom pressure anomaly grids are given as equivalent water thickness changes derived from GRACE &amp; GRACE-FO time-variable gravity observations during the specified timespan, and relative to the specified time-mean reference period. The Equivalent water thickness represent sea floor pressure changes due to the integral effect of ocean and atmosphere processes, including global mean ocean bottom pressure changes (mean ocean mass and mean atmosphere mass over the global oceans). The Level-2 GAD product has been added back, a glacial isostatic adjustment (GIA) correction has been applied, and standard corrections for geocenter (degree-1), C20 (degree-20) and C30 (degree-30) are incorporated. Post-processing filters (i.e., de-striping and spatial smoothing) have been applied to reduce correlated errors. Version 03 (v03) of the ocean bottom pressure data uses updated and consistent C20 and Geocenter corrections (i.e., Technical Notes TN-14 and TN-13).Data grids are provided in ASCII/netCDF/GeoTIFF formats. For the RL06 version, all GRACE products in the ASCII format have adopted the YAML encoding header, which is in full compliance with the PO.DAAC metadata best practices."
+
+    },
+  
+    {
+
+      "title"    : "GFZ TELLUS GRACE-FO Level-3 Monthly Land Water-Equivalent-Thickness Surface Mass Anomaly Release 6.0 version 03 in netCDF/ASCII/GeoTIFF Formats",
+      "url"      : "/2020/11/12/gfz-tellus-grace-fo-level-3-monthly-land-water-equivalent-thickness-surface-mass-anomaly-release-6.0-version-03-in-netcdfasciigeotiff-formats.html",
+      "content"  : "The monthly land mass grids contain water mass anomalies given as equivalent water thickness derived from GRACE &amp; GRACE-FO time-variable gravity observations during the specified timespan, and relative to the specified time-mean reference period. The Equivalent water thickness represents the total terrestrial water storage anomalies from soil moisture, snow, surface water (incl. rivers, lakes, reservoirs etc.), as well as groundwater and aquifers. A glacial isostatic adjustment (GIA) correction has been applied, and standard corrections for geocenter (degree-1), C20 (degree-20) and C30 (degree-30) are incorporated. Post-processing filters have been applied to reduce correlated errors. Version 03 (v03) of the terrestrial water storage data uses updated and consistent C20 and Geocenter corrections (i.e., Technical Notes TN-14 and TN-13).Data grids are provided in ASCII/netCDF/GeoTIFF formats. For the RL06 version, all GRACE products in the ASCII format have adopted the YAML encoding header, which is in full compliance with the PO.DAAC metadata best practices."
+
+    },
+  
+    {
+
+      "title"    : "Fireball And Bolide Reports",
+      "url"      : "/2020/11/12/fireball-and-bolide-reports.html",
+      "content"  : "Fireballs and bolides are astronomical terms for exceptionally bright meteors that are spectacular enough to to be seen over a very wide area. The following table provides a chronological data summary of fireball and bolide events provided by U.S. Government sensors. Ground-based observers sometimes also witness these events at night, or much more rarely in daylight, as impressive atmospheric light displays. This website is not meant to be a complete list of all fireball events. Only the brightest fireballs are noted.\n\nA meteoroid is generally defined as an asteroid or comet fragment that orbits the Sun and has an approximate size between ten microns and a meter or so. Meteors, or \"shooting stars,\" are the visible paths of meteoroids that have entered the Earth's atmosphere at high velocities. A fireball is an unusually bright meteor that reaches a visual magnitude of -3 or brighter when seen at the observer's zenith. Objects causing fireball events can exceed one meter in size. Fireballs that explode in the atmosphere are technically referred to as bolides although the terms fireballs and bolides are often used interchangeably.\n\nDuring the atmospheric entry phase, an impacting object is both slowed and heated by atmospheric friction. In front of it, a bow shock develops where atmospheric gases are compressed and heated. Some of this energy is radiated to the object causing it to ablate, and in most cases, to break apart. Fragmentation increases the amount of atmosphere intercepted and so enhances ablation and atmospheric braking. The object catastrophically disrupts when the force from the unequal pressures on the front and back sides exceeds its tensile strength.\n\nObjects causing fireballs are usually not large enough to survive passage through the Earth's atmosphere intact, although fragments, or meteorites, are sometimes recovered on the ground. The approximate total radiated energy in the atmosphere is provided in unit of Joules, a unit of energy given in kilograms times velocity squared, or kg x (m/s)2. An event with an energy equivalent of one thousand tons of TNT explosives is termed a kiloton (kt) event, where 1 kt = 4.185 x 1012 Joules. In the accompanying table, the total radiated energy is given but this is always less that the total impact energy. Peter Brown and colleagues have provided an empirical expression to approximately provide the total impact energy in kt (E), given the optical radiant energy in kt (Eo) (see: Brown et al., The flux of small near-Earth objects colliding with the Earth. Nature, vol. 420, 21 Nov. 2002, pp. 294-296).\n\nE = 8.2508 x Eo0.885\n\nThe accompanying table provides information on the date and time of each fireball event, its geographic location, its altitude and velocity at peak brightness, its approximate total optical radiated energy and its calculated total impact energy. The pre-impact velocity components are expressed in a geocentric Earth-fixed reference frame defined as follows: the z-axis is directed along the Earth's rotation axis towards the celestial north pole, the x-axis lies in the Earth's equatorial plane, directed towards the prime meridian, and the y-axis completes the right-handed coordinate system.\n\nhttp://neo.jpl.nasa.gov/fireball/"
+
+    },
+  
+    {
+
+      "title"    : "Extra-vehicular Activity (EVA) - US and Russia",
+      "url"      : "/2020/11/12/extra-vehicular-activity-eva-us-and-russia.html",
+      "content"  : "Activities done by an astronaut or cosmonaut outside a spacecraft beyond the Earth's appreciable atmosphere."
+
+    },
+  
+    {
+
+      "title"    : "Extra-vehicular Activity (EVA) - US and Russia",
+      "url"      : "/2020/11/12/extra-vehicular-activity-eva-us-and-russia.html",
+      "content"  : "Activities done by an astronaut or cosmonaut outside a spacecraft beyond the Earth's appreciable atmosphere."
+
+    },
+  
+    {
+
+      "title"    : "Daymet Station-Level Inputs and Model Predicted Values for North America, Version 3",
+      "url"      : "/2020/11/12/daymet-station-level-inputs-and-model-predicted-values-for-north-america-version-3.html",
+      "content"  : "This data set reports the station-level daily weather observation data and the corresponding Daymet model predicted data for three Daymet model parameters: minimum temperature (tmin), maximum temperature (tmax), and daily total precipitation (prcp). Each data file contains the daily observations and Daymet model predicted values for one variable and one year (1980 - the current full calendar year) for stations across North America. Also included are corresponding station metadata files for each variable and year, including the station name, station identification, latitude, and longitude."
+
+    },
+  
+    {
+
+      "title"    : "CSR TELLUS GRACE Level-3 Monthly Ocean Bottom Pressure Anomaly Release 6.0 version 03 in netCDF/ASCII/GeoTIFF Formats",
+      "url"      : "/2020/11/12/csr-tellus-grace-level-3-monthly-ocean-bottom-pressure-anomaly-release-6.0-version-03-in-netcdfasciigeotiff-formats.html",
+      "content"  : "The monthly ocean bottom pressure anomaly grids are given as equivalent water thickness changes derived from GRACE &amp; GRACE-FO time-variable gravity observations during the specified timespan, and relative to the specified time-mean reference period. The Equivalent water thickness represent sea floor pressure changes due to the integral effect of ocean and atmosphere processes, including global mean ocean bottom pressure changes (mean ocean mass and mean atmosphere mass over the global oceans). The Level-2 GAD product has been added back, a glacial isostatic adjustment (GIA) correction has been applied, and standard corrections for geocenter (degree-1), C20 (degree-20) and C30 (degree-30) are incorporated. Post-processing filters (i.e., de-striping and spatial smoothing) have been applied to reduce correlated errors. Version 03 (v03) of the ocean bottom pressure data uses updated and consistent C20 and Geocenter corrections (i.e., Technical Notes TN-14 and TN-13).Data grids are provided in ASCII/netCDF/GeoTIFF formats. For the RL06 version, all GRACE products in the ASCII format have adopted the YAML encoding header, which is in full compliance with the PO.DAAC metadata best practices."
+
+    },
+  
+    {
+
+      "title"    : "CSR TELLUS GRACE Level-3 Monthly Land Water-Equivalent-Thickness Surface Mass Anomaly Release 6.0 version 03 in netCDF/ASCII/GeoTIFF Formats",
+      "url"      : "/2020/11/12/csr-tellus-grace-level-3-monthly-land-water-equivalent-thickness-surface-mass-anomaly-release-6.0-version-03-in-netcdfasciigeotiff-formats.html",
+      "content"  : "The monthly land mass grids contain water mass anomalies given as equivalent water thickness derived from GRACE &amp; GRACE-FO time-variable gravity observations during the specified timespan, and relative to the specified time-mean reference period. The Equivalent water thickness represents the total terrestrial water storage anomalies from soil moisture, snow, surface water (incl. rivers, lakes, reservoirs etc.), as well as groundwater and aquifers. A glacial isostatic adjustment (GIA) correction has been applied, and standard corrections for geocenter (degree-1), C20 (degree-20) and C30 (degree-30) are incorporated. Post-processing filters have been applied to reduce correlated errors. Version 03 (v03) of the terrestrial water storage data uses updated and consistent C20 and Geocenter corrections (i.e., Technical Notes TN-14 and TN-13).Data grids are provided in ASCII/netCDF/GeoTIFF formats. For the RL06 version, all GRACE products in the ASCII format have adopted the YAML encoding header, which is in full compliance with the PO.DAAC metadata best practices."
+
+    },
+  
+    {
+
+      "title"    : "CSR TELLUS GRACE-FO Level-3 Monthly Ocean Bottom Pressure Anomaly Release 6.0 version 03 in netCDF/ASCII/GeoTIFF Formats",
+      "url"      : "/2020/11/12/csr-tellus-grace-fo-level-3-monthly-ocean-bottom-pressure-anomaly-release-6.0-version-03-in-netcdfasciigeotiff-formats.html",
+      "content"  : "The monthly ocean bottom pressure anomaly grids are given as equivalent water thickness changes derived from GRACE &amp; GRACE-FO time-variable gravity observations during the specified timespan, and relative to the specified time-mean reference period. The Equivalent water thickness represent sea floor pressure changes due to the integral effect of ocean and atmosphere processes, including global mean ocean bottom pressure changes (mean ocean mass and mean atmosphere mass over the global oceans). The Level-2 GAD product has been added back, a glacial isostatic adjustment (GIA) correction has been applied, and standard corrections for geocenter (degree-1), C20 (degree-20) and C30 (degree-30) are incorporated. Post-processing filters (i.e., de-striping and spatial smoothing) have been applied to reduce correlated errors. Version 03 (v03) of the ocean bottom pressure data uses updated and consistent C20 and Geocenter corrections (i.e., Technical Notes TN-14 and TN-13).Data grids are provided in ASCII/netCDF/GeoTIFF formats. For the RL06 version, all GRACE products in the ASCII format have adopted the YAML encoding header, which is in full compliance with the PO.DAAC metadata best practices."
+
+    },
+  
+    {
+
+      "title"    : "CSR TELLUS GRACE-FO Level-3 Monthly Land Water-Equivalent-Thickness Surface Mass Anomaly Release 6.0 version 03 in netCDF/ASCII/GeoTIFF Formats",
+      "url"      : "/2020/11/12/csr-tellus-grace-fo-level-3-monthly-land-water-equivalent-thickness-surface-mass-anomaly-release-6.0-version-03-in-netcdfasciigeotiff-formats.html",
+      "content"  : "The monthly land mass grids contain water mass anomalies given as equivalent water thickness derived from GRACE &amp; GRACE-FO time-variable gravity observations during the specified timespan, and relative to the specified time-mean reference period. The Equivalent water thickness represents the total terrestrial water storage anomalies from soil moisture, snow, surface water (incl. rivers, lakes, reservoirs etc.), as well as groundwater and aquifers. A glacial isostatic adjustment (GIA) correction has been applied, and standard corrections for geocenter (degree-1), C20 (degree-20) and C30 (degree-30) are incorporated. Post-processing filters have been applied to reduce correlated errors. Version 03 (v03) of the terrestrial water storage data uses updated and consistent C20 and Geocenter corrections (i.e., Technical Notes TN-14 and TN-13).Data grids are provided in ASCII/netCDF/GeoTIFF formats. For the RL06 version, all GRACE products in the ASCII format have adopted the YAML encoding header, which is in full compliance with the PO.DAAC metadata best practices."
+
+    },
+  
+    {
+
+      "title"    : "Coastal Wetland Elevation and Carbon Flux Inventory with Uncertainty, USA, 2006-2011",
+      "url"      : "/2020/11/12/coastal-wetland-elevation-and-carbon-flux-inventory-with-uncertainty-usa-2006-2011.html",
+      "content"  : "This dataset provides maps of coastal wetland carbon and methane fluxes and coastal wetland surface elevation from 2006 to 2011 at 30 m resolution for coastal wetlands of the conterminous United States. Total coastal wetland carbon flux per year per pixel was calculated by combining maps of wetland type and change with soil, biomass, and methane flux data from a literature review. Uncertainty in carbon flux was estimated from 10,000 iterations of a Monte Carlo analysis. In addition to the uncertainty analysis, this dataset also provides a probabilistic map of the extent of tidal elevation, as well as the geospatial files used to create that surface, and a land cover and land cover change map of the coastal zone from 2006 to 2011 with accompanying estimated median soil, biomass, methane, and total CO2 equivalent annual fluxes, each with reported 95% confidence intervals, at 30 m resolution. Land cover was quantified using the Coastal Change Analysis Program (C-CAP), a Landsat-based land cover mapping product."
+
+    },
+  
+    {
+
+      "title"    : "CMS LiDAR Data for Forested Areas in Paragominas, Para, Brazil, 2012-2014",
+      "url"      : "/2020/11/12/cms-lidar-data-for-forested-areas-in-paragominas-para-brazil-2012-2014.html",
+      "content"  : "This data set provides raw LiDAR point cloud data and derived Digital Terrain Models (DTMs) for five forested areas in the municipality of Paragominas, Para, Brazil, for the years 2012, 2013, and 2014. Data are included for two areas in Paragominas for 2013 and 2014, two areas for the Fazenda Cauaxi for 2012 and 2014, and for the Fazenda Andiroba for 2014. Shapefiles showing the LiDAR/DTM coverage areas are also provided for each of the areas."
+
+    },
+  
+    {
+
+      "title"    : "CIO Governance Board Membership List",
+      "url"      : "/2020/11/12/cio-governance-board-membership-list.html",
+      "content"  : "Each agency is expected to post a JSON file for their CIO Governance Board Membership List."
+
+    },
+  
+    {
+
+      "title"    : "CARVE L4 Gridded Particle Trajectories for WRF-STILT model, 2012-2016",
+      "url"      : "/2020/11/12/carve-l4-gridded-particle-trajectories-for-wrf-stilt-model-2012-2016.html",
+      "content"  : "This data set provides Weather Research and Forecasting (WRF) Stochastic Time-Inverted Lagrangian Transport (STILT) model inputs for particle receptors located at positions along Carbon in Arctic Reservoirs Vulnerability Experiment (CARVE) flight paths (2012 - 2015) and various meteorological stations in Alaska and the Canadian Arctic. Each product consists of multiple NetCDF files packaged as a TAR/GZIP file. These data correspond to WRF-STILT model footprint data also generated by the CARVE science team."
+
+    },
+  
+    {
+
+      "title"    : "CARVE L4 Gridded Footprints from WRF-STILT model, 2012-2016",
+      "url"      : "/2020/11/12/carve-l4-gridded-footprints-from-wrf-stilt-model-2012-2016.html",
+      "content"  : "This data set provides Weather Research and Forecasting (WRF) Stochastic Time-Inverted Lagrangian Transport (STILT) Footprint data products for particle receptors located at positions along Carbon in Arctic Reservoirs Vulnerability Experiment (CARVE) flight paths (2012 - 2015) and various meteorological stations in Alaska and the Canadian Arctic. Each product consists of multiple NetCDF footprint files packaged as a TAR/GZIP file. These aircraft and station positions were treated as receptors in the WRF-STILT model in order to simulate the land surface influence on observed atmospheric constituents. The measurements included in this data set are crucial for understanding changes in Arctic carbon cycling and the potential threats posed by thawing of Arctic permafrost."
+
+    },
+  
+    {
+
+      "title"    : "Candida albicans response to spaceflight (NASA STS-115) --- GSM1231690_Slide_43",
+      "url"      : "/2020/11/12/candida-albicans-response-to-spaceflight-nasa-sts-115-gsm1231690_slide_43.html",
+      "content"  : "https://c3.nasa.gov/genelab/accession/GLDS-20/\n\nThis study presents the first global transcriptional profiling and phenotypic characterization of the major human opportunistic fungal pathogen, Candida albicans, grown in spaceflight conditions. Microarray analysis revealed that C. albicans subjected to short-term spaceflight culture differentially regulated 454 genes compared to synchronous ground controls, which represented 8.4% of the analyzed ORFs. Spaceflight-cultured C. albicans induced genes involved in cell aggregation (similar to flocculation), which was validated by microscopic and flow cytometry analysis. We also observed enhanced random budding of spaceflight-cultured cells as opposed to more normal bipolar budding patterns for ground samples, in accordance with the gene expression data. Furthermore, genes involved in antifungal agent and stress resistance were differentially regulated in spaceflight, including induction of ABC transporters and members of the major facilitator family, downregulation of ergosterol-encoding genes, and upregulation of genes involved in oxidative stress resistance. Finally, downregulation of genes involved in the actin cytoskeleton was observed. Interestingly, the transcriptional regulator Cap1 and over 30% of the Cap1 regulon was differentially expressed in spaceflight-cultured C. albicans. A potential role for Cap1 in the spaceflight response of C. albicans is suggested, as this regulator is involved in random budding, cell aggregation, actin cytoskeleton, and oxidative stress resistance; all related to observed spaceflight-associated changes of C. albicans. While culture of C. albicans in microgravity potentiates a global change in gene expression that could induce a virulence-related phenotype, no increased virulence in a murine intraperitoneal (i.p.) infection model was observed. This study represents an important basis for the assessment of the risk that commensal flora could play during spaceflight missions. Furthermore, since the low fluid-shear environment of microgravity is relevant to physical forces encountered by pathogens during the infection process, insights gained from this study could identify novel infectious disease mechanisms, with downstream benefits for the general public. Cells were grown for 24 hours on the space shuttle or as ground-based controls, preserved in RNALater, and stored at -80C. Four samples of each flight- and ground-based controls were harvested for microarray analysis. GAP is Group Activation Pack and each GAP contains 8 FPAs. The numbers represent the # assigned to the particular GAP and the number assigned to the specific FPA (1-8) within the indicated GAP. The same hardware is used for the flight samples and the ground samples."
+
+    },
+  
+    {
+
+      "title"    : "Candida albicans response to spaceflight (NASA STS-115) --- GSM1231690_Slide_43",
+      "url"      : "/2020/11/12/candida-albicans-response-to-spaceflight-nasa-sts-115-gsm1231690_slide_43.html",
+      "content"  : "https://c3.nasa.gov/genelab/accession/GLDS-20/\n\nThis study presents the first global transcriptional profiling and phenotypic characterization of the major human opportunistic fungal pathogen, Candida albicans, grown in spaceflight conditions. Microarray analysis revealed that C. albicans subjected to short-term spaceflight culture differentially regulated 454 genes compared to synchronous ground controls, which represented 8.4% of the analyzed ORFs. Spaceflight-cultured C. albicans induced genes involved in cell aggregation (similar to flocculation), which was validated by microscopic and flow cytometry analysis. We also observed enhanced random budding of spaceflight-cultured cells as opposed to more normal bipolar budding patterns for ground samples, in accordance with the gene expression data. Furthermore, genes involved in antifungal agent and stress resistance were differentially regulated in spaceflight, including induction of ABC transporters and members of the major facilitator family, downregulation of ergosterol-encoding genes, and upregulation of genes involved in oxidative stress resistance. Finally, downregulation of genes involved in the actin cytoskeleton was observed. Interestingly, the transcriptional regulator Cap1 and over 30% of the Cap1 regulon was differentially expressed in spaceflight-cultured C. albicans. A potential role for Cap1 in the spaceflight response of C. albicans is suggested, as this regulator is involved in random budding, cell aggregation, actin cytoskeleton, and oxidative stress resistance; all related to observed spaceflight-associated changes of C. albicans. While culture of C. albicans in microgravity potentiates a global change in gene expression that could induce a virulence-related phenotype, no increased virulence in a murine intraperitoneal (i.p.) infection model was observed. This study represents an important basis for the assessment of the risk that commensal flora could play during spaceflight missions. Furthermore, since the low fluid-shear environment of microgravity is relevant to physical forces encountered by pathogens during the infection process, insights gained from this study could identify novel infectious disease mechanisms, with downstream benefits for the general public. Cells were grown for 24 hours on the space shuttle or as ground-based controls, preserved in RNALater, and stored at -80C. Four samples of each flight- and ground-based controls were harvested for microarray analysis. GAP is Group Activation Pack and each GAP contains 8 FPAs. The numbers represent the # assigned to the particular GAP and the number assigned to the specific FPA (1-8) within the indicated GAP. The same hardware is used for the flight samples and the ground samples."
+
+    },
+  
+    {
+
+      "title"    : "Bureau IT Leadership Directory",
+      "url"      : "/2020/11/12/bureau-it-leadership-directory.html",
+      "content"  : "Each agency is expected to post a JSON file for their Bureau IT Leadership Directory. Each dataset should include one record for each agency employee with the title of “chief information officer” or who performs the duties and responsibilities of a CIO but does not necessarily have the title of CIO."
+
+    },
+  
+    {
+
+      "title"    : "BOREAS Scanning Lidar Imager of Canopies by Echo Recovery (SLICER) Level-3 Data",
+      "url"      : "/2020/11/12/boreas-scanning-lidar-imager-of-canopies-by-echo-recovery-slicer-level-3-data.html",
+      "content"  : "Scanning Lidar Imager of Canopies by Echo Recovery (SLICER) data were acquired in support of BOReal Ecosystem-Atmosphere Study (BOREAS) at all of the Tower Flux (TF) sites in the Southern and Northern Study Areas (SSA and NSA, respectively) and along transects between the study areas.  Data were acquired on 5 days between 18 and 30 July 1996. Each coverage of a tower site is typically 40 km in length, with a minimum of 3 and a maximum of 10 lines across each tower oriented in a variety of azimuths. The SLICER data were acquired simultaneously with Advanced Solid-State Array Spectroradiometer (ASAS) hyperspectral, multiview angle images. The SLICER Level 3 products consist of binary files for each flight line with a data record for each laser shot composed of 13 parameters and a 600-byte waveform that is the raw record of the back scatter laser energy reflected from Earth's surface."
+
+    },
+  
+    {
+
+      "title"    : "BOREAS Agriculture Canada Central Saskatchewan Vector Soils Data, R1",
+      "url"      : "/2020/11/12/boreas-agriculture-canada-central-saskatchewan-vector-soils-data-r1.html",
+      "content"  : "This data set provides soil descriptions for forested areas in the BOREAS southern study area (SSA) in central Saskatchewan, Canada provided by Agriculture Canada. The data contain soil code, modifiers, extent, and soil names for the primary, secondary, and tertiary soil units within each polygon."
+
+    },
+  
+    {
+
+      "title"    : "BeXRB Monitor Data",
+      "url"      : "/2020/11/12/bexrb-monitor-data.html",
+      "content"  : "This is a monitor using data from Swift/BAT, MAXI and Fermi/GBM instruments. \nClick on the table header to change the sorting behaviour. \nColor code for the probability: (rising flux , no change, decreasing flux)\nThe average flux is calculated as the average of the last 3 days of data, without taking the errors into account. The fermi flux is not given in mCrab. \nPlease note that the accuracy of the probabilities is limited by the accuracy of the data used.\nRelease of Friday, the 17th of October 2014\n\nLast updated at 14:04:07 UT\n\nCreated as an ESAC trainee project by Eva Laplace. \nSupervisors: Peter Kretschmar, Emilio Salazar and Miguel Arregui. \nContact: peter.kretschmar@esa.int"
+
+    },
+  
+    {
+
+      "title"    : "Arctic Vegetation Plots at Atqasuk, Alaska, 1975, 2000, and 2010",
+      "url"      : "/2020/11/12/arctic-vegetation-plots-at-atqasuk-alaska-1975-2000-and-2010.html",
+      "content"  : "This data set provides vegetation species abundance data collected in 1975 from 60 sites on the Arctic Coastal Plain near Atqasuk, Alaska, as well as environmental and species data for 31 of the sites that were revisited in 2000 and 2010. The study sites are located on Arctic tundra near the Meade River, about 60 miles southwest of Barrow. Data includes baseline plot information for vegetation and site factors for the study plots subjectively located in 9 plant communities. Specific attributes include: site characteristics such as altitude, slope, aspect, and topographic position; soil pH and organic layer depth; and dominant plant communities. This product brings together for easy reference all of the available information collected from the plots that has been used for the classification, mapping, and analysis of geo-botanical factors at the Atqasuk research sites and across Alaska."
+
+    },
+  
+    {
+
+      "title"    : "AfriSAR Aboveground Biomass for Lope, Mabounie, Mondah, and Rabi Sites, Gabon",
+      "url"      : "/2020/11/12/afrisar-aboveground-biomass-for-lope-mabounie-mondah-and-rabi-sites-gabon.html",
+      "content"  : "This dataset provides gridded estimates of aboveground biomass (AGB) for four sites in Gabon at 0.25 ha (50 m) resolution derived with field measurements and airborne LiDAR data collected from 2010 to 2016. The sites represent a mix of forested, savannah, and some agricultural and disturbed landcover types: Lope site, within Lope National Park; Mabounie, mostly forested site; Mondah Forest, protected area; and the Rabi forest site, part of the Smithsonian Institution of Global Earth Observatories world-wide network of forest plots. Plot-level biophysical measurements of tree diameter and tree height (or estimated by allometry) were performed at 1 ha and 0.25 ha scales on multiple plots at each site and used to derive AGB for each tree and then summed for each plot. Aerial LiDAR scans were used to construct digital elevation models (DEM) and digital surface models (DSM), and then the DEM and DSM were used to construct a canopy height model (CHM) at 1 m resolution. After checking site-plot locations against the CHM, mean canopy height (MCH) was computed over each 0.25 ha. A single regression model relating MCH and AGB estimates, incorporating local height based on the trunk DBH (HD) relationships, was produced for all sites and combined with the CHM layer to construct biomass maps at 0.25 ha resolution."
+
+    },
+  
+    {
+
+      "title"    : "ABoVE Vegetation Composition across Fire History Gradients on the Y-K Delta, Alaska",
+      "url"      : "/2020/11/12/above-vegetation-composition-across-fire-history-gradients-on-the-y-k-delta-alaska.html",
+      "content"  : "This dataset provides ecological field data that were collected during July 2017 and July 2018 from 43 plots spanning gradients of fire history in the upland tundra of the Yukon-Kuskokwim (Y-K) Delta, Alaska. Plot-level data include vegetation species composition and structure, leaf area index (LAI), topography, thaw-depth, and soil characteristics collected at plots burned in 1971-1972, 1985, 2006-2007, 2015, or unburned controls. Vegetation species were sampled along transects using the vegetation point-intercept (VPI) sampling approach and summarized by three metrics of vegetation cover: (1) top-hit cover, (2) any-hit cover, and (3) multi-hit cover. Each metric is the total number of hits for a species divided by the total number of sample points. The VPI any-hit cover metric data were combined with Landsat imagery to develop fractional maps of any-hit cover for four aggregated plant functional types (PFTs); bryophytes, herbs, lichen, and shrubs for the upland tundra area. Photographs of vegetation transects and soil pits are included as companion files."
+
+    },
+  
+    {
+
+      "title"    : "ABoVE Soil Temperature Profiles, USArray Seismic Stations, AK and Canada, 2016-2019",
+      "url"      : "/2020/11/12/above-soil-temperature-profiles-usarray-seismic-stations-ak-and-canada-2016-2019.html",
+      "content"  : "This dataset includes soil temperature profile measurements taken at 16 monitoring sites in Alaska, USA, and at one site in Yukon, Canada. The six sites are collocated with seismic stations of the USArray program. The measurement dates and depths vary per site as does measurement frequency (hourly or every 6 hours). Measurements were made from the soil surface to a maximum depth of 1.5 m. Measurements were made from 2016-2018 at two sites, 2017-2019 at four sites, and 2018-2019 at 11 sites using temperature sensors attached to HOBO data loggers. These measurement stations complement existing temperature monitoring networks allowing for better characterization of ground temperatures and permafrost conditions across Alaska."
+
+    },
+  
+    {
+
+      "title"    : "ABoVE Soil Temperature Profiles at USArray Seismic Stations, Alaska, 2016-2018",
+      "url"      : "/2020/11/12/above-soil-temperature-profiles-at-usarray-seismic-stations-alaska-2016-2018.html",
+      "content"  : "This dataset includes soil temperature profile measurements taken three times per day at 20 seismic monitoring sites associated with the USArray program, located across the NASA ABoVE domain in interior Alaska. Data were collected primarily from the summer of 2017 through the summer of 2018. At one station, measurements start in 2016. These measurements were taken using temperature probes installed at four depths from the surface to a target maximum depth of 1.5 meters and recorded with HOBO data loggers."
+
+    },
+  
+    {
+
+      "title"    : "ABoVE Riverbank Erosion and Vegetation Changes, Yukon River Basin, Alaska, 1984-2017",
+      "url"      : "/2020/11/12/above-riverbank-erosion-and-vegetation-changes-yukon-river-basin-alaska-1984-2017.html",
+      "content"  : "This dataset provides a time series of riverbank erosion and vegetation colonization along reaches of the Yukon River (3 study areas), Tanana and Nenana Rivers (1 area), and Chandalar River (1 area) in interior Alaska over the period 1984-2017. The change data were derived from selected 30-m images from Landsat TM, Landsat ETM+, and Landsat Operational Land Imager (OLI) surface reflectance products. Image classification used the Normalized Differenced Vegetation Index (NDVI) with an NDVI threshold of 0.2 to differentiate vegetated from non-vegetated pixels. Images were assigned to one of seven or eight multiyear intervals, within the 1984-2017 overall range, for each study area. Time intervals vary by study site. Change detection identified shifts from one time interval to the next: changes from vegetated to non-vegetated classes were considered riverbank erosion and changes from non-vegetated to vegetated classes were considered vegetation colonization."
+
+    },
+  
+    {
+
+      "title"    : "ABoVE Gridded 30-m Aboveground Biomass, Shrub Dominance, North Slope, AK, 2007-2016",
+      "url"      : "/2020/11/12/above-gridded-30-m-aboveground-biomass-shrub-dominance-north-slope-ak-2007-2016.html",
+      "content"  : "This dataset includes 30-m gridded estimates of total plant aboveground biomass (AGB), the shrub AGB, and the shrub dominance (shrub/plant AGB) for non-water portions of the Beaufort Coastal Plain and Brooks Foothills ecoregions of the North Slope of Alaska. The estimates were derived by linking biomass harvests from 28 published field site datasets with NDVI from a regional Landsat mosaic derived from Landsat 5 and 7 satellite imagery. The data cover the period 2007-06-01 to 2016-08-31."
+
+    },
+  
+    {
+
+      "title"    : "ABoVE Ecosystem Map, Great Slave Lake Area, Northwest Territories, Canada, 1997-2011",
+      "url"      : "/2020/11/12/above-ecosystem-map-great-slave-lake-area-northwest-territories-canada-1997-2011.html",
+      "content"  : "This dataset provides an ecosystem type map at 12.5 meter pixel spacing and 0.2 ha minimum mapping unit for the area surrounding Great Slave Lake, Northwest Territories, Canada for the time period 1997 to 2011. The map includes nine classes for peatland, wetland, and upland areas derived from a Random Forest classification trained on multi-date, multi-sensor remote sensing images across the study extent, and using field data and high-resolution Worldview-2 image interpretation for training and validation. The nine classes are: Water, Marsh, Swamp, Open Fen, Treed Fen, Bog, Upland Deciduous, Upland Conifer, and Sparsely Vegetated. A tenth map class identifies areas of historical fires (prior to 2011) that are currently undergoing post-fire successional revegetation. This dataset provides an ecosystem type map of the area before the large fire season of 2014 to better understand the effects of fires in the area."
+
+    },
+  
+    {
+
+      "title"    : "ABoVE CO2 and CH4 Fluxes and Meteorology at Flux Tower Sites, Alaska, 2015-2017",
+      "url"      : "/2020/11/12/above-co2-and-ch4-fluxes-and-meteorology-at-flux-tower-sites-alaska-2015-2017.html",
+      "content"  : "This dataset provides CO2 and CH4 fluxes and meteorological parameters from five eddy covariance (EC) tower sites located at Barrow (three sites), Atqasuk (ATQ) and Ivotuk (IVO), Alaska. These locations form a 300-km north-south transect across Alaska's North Slope. Flux measurements include CO2, CH4, and H2O fluxes plus sensible and latent heat fluxes. Meteorological data include air temperature, wind speed, rain, soil temperature, PAR, radiation, soil water content, RH, ground heat fluxes, and air pressure. All data are reported at half-hourly intervals and cover the period 2015-01-01 to 2017-03-09."
+
+    },
+  
+    {
+
+      "title"    : "ABoVE Burn Severity of Soil Organic Matter, Northwest Territories, Canada, 2014-2015",
+      "url"      : "/2020/11/12/above-burn-severity-of-soil-organic-matter-northwest-territories-canada-2014-2015.html",
+      "content"  : "This dataset provides maps at 30-m resolution of landscape surface burn severity (surface litter and soil organic layers) from the 2014-2015 fires in the Northwest Territories and Northern Alberta, Canada. The maps were derived from Landsat 8 Operational Land Imager/Thermal Infrared Sensor (OLI/TIRS) imagery and two separate multiple linear regression models trained with field data; one for the Plains and a second for the Shield ecoregion. Field observations were used to estimate area burned in each of five severity classes (unburned, singed, light, moderate, severely burned) in six stratified randomly selected plots of 10 x 10-m in size across a 1-ha site. Using this five class scale a burn severity index (BSI) for each 1-ha site was calculated using multiple weighted and averaged field parameters. Pre- and post-fire phenologically paired Landsat 8 images were used to model the five discrete severity classes using midpoints as breaks."
+
+    },
+  
+    {
+
+      "title"    : "ABoVE Burn Severity, Fire Progression, Landcover and Field Data, NWT, Canada, 2014",
+      "url"      : "/2020/11/12/above-burn-severity-fire-progression-landcover-and-field-data-nwt-canada-2014.html",
+      "content"  : "This data set provides peatland landcover classification maps, fire progression maps, and vegetation community biophysical data collected from areas that were burned by wildfire in 2014 in the Northwest Territories, Canada. The peatland maps include peatland type (bog, fen, marsh, swamp) and level of biomass (open, forested). The fire progression maps enabled an assessment of wildfire progression rates at a daily time scale. Field data, collected in 2015, include an estimate of burn severity, woody seedling/sprouting data, soil moisture, and tree diameter and height of burned sites and similar vegetation characterization at landcover validation sites."
+
+    },
+  
+    {
+
+      "title"    : "A Global Database of Gas Fluxes from Soils after Rewetting or Thawing, Version 1.0",
+      "url"      : "/2020/11/12/a-global-database-of-gas-fluxes-from-soils-after-rewetting-or-thawing-version-1.0.html",
+      "content"  : "This database contains information compiled from published studies on gas flux from soil following rewetting or thawing. The resulting database includes 222 field and laboratory observations focused on rewetting of dry soils, and 116 field laboratory observations focused on thawing of frozen soils studies conducted from 1956 to 2010. Fluxes of carbon dioxide, methane, nitrous oxide, nitrogen oxide, and ammonia (CO2, CH4, N2O, NO and NH3) were compiled from the literature and the flux rates were normalized for ease of comparison. Field observations of gas flux following rewetting of dry soils include events caused by natural rainfall, simulated rainfall in natural ecosystems, and irrigation in agricultural lands. Similarly, thawing of frozen soils include field observations of natural thawing, simulated freezing-thawing events (i.e., thawing of simulated frozen soil by snow removal), and thawing of seasonal ice in temperate and high latitude regions (Kim et al., 2012). Reported parameters include experiment type, location, site type, vegetation, climate, soil properties, rainfall, soil moisture, soil gas flux after wetting and thawing, peak soil gas flux properties, and the corresponding study references. There is one comma-delimited data file."
+
+    },
+  
+    {
+
+      "title"    : "A E- GEOD-50881 Gene Chip Assay --- Candida albicans response to spaceflight (NASA STS-115)",
+      "url"      : "/2020/11/12/a-e-geod-50881-gene-chip-assay-candida-albicans-response-to-spaceflight-nasa-sts-115.html",
+      "content"  : "https://c3.nasa.gov/genelab/accession/GLDS-20/\n\nThis study presents the first global transcriptional profiling and phenotypic characterization of the major human opportunistic fungal pathogen, Candida albicans, grown in spaceflight conditions. Microarray analysis revealed that C. albicans subjected to short-term spaceflight culture differentially regulated 454 genes compared to synchronous ground controls, which represented 8.4% of the analyzed ORFs. Spaceflight-cultured C. albicans induced genes involved in cell aggregation (similar to flocculation), which was validated by microscopic and flow cytometry analysis. We also observed enhanced random budding of spaceflight-cultured cells as opposed to more normal bipolar budding patterns for ground samples, in accordance with the gene expression data. Furthermore, genes involved in antifungal agent and stress resistance were differentially regulated in spaceflight, including induction of ABC transporters and members of the major facilitator family, downregulation of ergosterol-encoding genes, and upregulation of genes involved in oxidative stress resistance. Finally, downregulation of genes involved in the actin cytoskeleton was observed. Interestingly, the transcriptional regulator Cap1 and over 30% of the Cap1 regulon was differentially expressed in spaceflight-cultured C. albicans. A potential role for Cap1 in the spaceflight response of C. albicans is suggested, as this regulator is involved in random budding, cell aggregation, actin cytoskeleton, and oxidative stress resistance; all related to observed spaceflight-associated changes of C. albicans. While culture of C. albicans in microgravity potentiates a global change in gene expression that could induce a virulence-related phenotype, no increased virulence in a murine intraperitoneal (i.p.) infection model was observed. This study represents an important basis for the assessment of the risk that commensal flora could play during spaceflight missions. Furthermore, since the low fluid-shear environment of microgravity is relevant to physical forces encountered by pathogens during the infection process, insights gained from this study could identify novel infectious disease mechanisms, with downstream benefits for the general public. Cells were grown for 24 hours on the space shuttle or as ground-based controls, preserved in RNALater, and stored at -80C. Four samples of each flight- and ground-based controls were harvested for microarray analysis. GAP is Group Activation Pack and each GAP contains 8 FPAs. The numbers represent the # assigned to the particular GAP and the number assigned to the specific FPA (1-8) within the indicated GAP. The same hardware is used for the flight samples and the ground samples."
+
+    },
+  
+    {
+
+      "title"    : "A Compilation of Global Soil Microbial Biomass Carbon, Nitrogen, and Phosphorus Data",
+      "url"      : "/2020/11/12/a-compilation-of-global-soil-microbial-biomass-carbon-nitrogen-and-phosphorus-data.html",
+      "content"  : "This data set provides the concentrations of soil microbial biomass carbon (C), nitrogen (N) and phosphorus (P), soil organic carbon, total nitrogen, and total phosphorus at biome and global scales. The data were compiled from a comprehensive survey of publications from the late 1970s to 2012 and include 3,422 data points from 315 papers. These data are from soil samples collected primarily at 0-15 cm depth with some from 0-30 cm. In addition, data were compiled for soil microbial biomass concentrations from soil profile samples to depths of 100 cm. Sampling site latitude and longitude were available for the majority of the samples that enabled assembling additional soil properties, site characteristics, vegetation distributions, biomes, and long-term climate data from several global sources of soil, land-cover, and climate data. These site attributes are included with the microbial biomass data. This data set contains two *.csv files of the soil microbial biomass C, N, P data. The first provides all compiled results emphasizing the full spatial extent of the data, while the second is a subset that provides only data from a series of profile samples emphasizing the vertical distribution of microbial biomass concentrations.There is a companion file, also in .csv format, of the references for the surveyed publications. A reference_number relates the data to the respective publication.The concentrations of soil microbial biomass, in combination with other soil databases, were used to estimate the global storage of soil microbial biomass C and N in 0-30 cm and 0-100 cm soil profiles. These storage estimates were combined with a spatial map of 12 major biomes (boreal forest, temperate coniferous forest, temperate broadleaf forest, tropical and subtropical forests, mixed forest, grassland, shrub, tundra, desert, natural wetland, cropland, and pasture) at 0.05-degree by 0.5-degree spatial resolution. The biome map and six estimates of C and N storage and C:N ration in soil microbial biomass are provided in a single netCDF format file."
+
+    }
+  
+]
