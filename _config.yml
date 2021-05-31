@@ -18,4 +18,5 @@ url: 'http://national-aeronautics-and-space-administration.dayda.org'
 encoding: utf-8
 paginate: 25
 paginate_path: '/page:num/'
+permalink: '/:title/'
 markdown: kramdown
